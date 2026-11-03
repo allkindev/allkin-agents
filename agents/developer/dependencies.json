@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "id": "code-review",
+      "name": "code-review",
+      "description": "Use when the user asks to review, check, audit or critique code, a diff, a pull request or a script, or asks \"is this correct / safe / good\". Produces findings ranked by severity, each with the line and a concrete failure case."
+    }
+  ],
+  "services": []
+}

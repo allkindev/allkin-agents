@@ -1,0 +1,31 @@
+{
+  "name": "Developer",
+  "version": "1.0.0",
+  "description": "A software developer that works like Claude Code: it explores a code base before touching it, plans, changes little, verifies by running the tests and the build, and reports plainly.",
+  "author": "Allkin",
+  "canAdminSystem": true,
+  "canReadSystem": true,
+  "canBrowseWeb": true,
+  "canUseSubagents": true,
+  "canRemember": true,
+  "canTalkToAgents": false,
+  "skillIds": ["code-review"],
+  "locales": {
+    "en": {
+      "name": "Developer",
+      "description": "A software developer that works like Claude Code: it explores a code base before touching it, plans, changes little, verifies by running the tests and the build, and reports plainly."
+    },
+    "fr": {
+      "name": "Developer",
+      "description": "Un développeur qui travaille comme Claude Code : il explore le code avant d'y toucher, planifie, change peu, vérifie en lançant les tests et la compilation, et rend compte sans détour."
+    },
+    "es": {
+      "name": "Developer",
+      "description": "Un desarrollador que trabaja como Claude Code: explora el código antes de tocarlo, planifica, cambia poco, verifica ejecutando las pruebas y la compilación, e informa con claridad."
+    },
+    "de": {
+      "name": "Developer",
+      "description": "Ein Entwickler, der wie Claude Code arbeitet: Er erkundet den Code, bevor er ihn anfasst, plant, ändert wenig, prüft durch Tests und Build, und berichtet klar."
+    }
+  }
+}
