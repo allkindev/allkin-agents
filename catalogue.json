@@ -10,7 +10,7 @@
       "description": "A software developer that works like Claude Code: it explores a code base before touching it, plans, changes little, verifies by running the tests and the build, and reports plainly.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-03T11:00:39.678Z",
+      "updatedAt": "2026-11-03T12:00:39+01:00",
       "locales": {
         "en": {
           "name": "Developer",
@@ -69,6 +69,69 @@
           "path": "dependencies.json",
           "size": 383,
           "sha256": "e1bcf4553f7118ff84ba5d8c75336bdfdea66ca6b34471d80a55cbb39da8fe15"
+        }
+      ]
+    },
+    {
+      "id": "migrator",
+      "name": "Migrator",
+      "version": "1.0.0",
+      "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list.",
+      "author": "Allkin",
+      "updatedAt": "2026-11-06T09:35:16.096Z",
+      "locales": {
+        "en": {
+          "name": "Migrator",
+          "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list."
+        },
+        "fr": {
+          "name": "Migrateur",
+          "description": "Fait venir vos agents d'OpenClaw ou de NanoClaw dans Allkin : il lit une archive de l'ancienne installation sans ses secrets, réécrit le rôle et la mémoire de chaque agent, convertit ses compétences et vous remet des archives à importer avec une courte liste de ce qui reste à faire."
+        },
+        "es": {
+          "name": "Migrador",
+          "description": "Trae sus agentes de OpenClaw o NanoClaw a Allkin: lee un archivo de la antigua instalación sin sus secretos, reescribe el rol y la memoria de cada agente, convierte sus competencias y le entrega archivos para importar con una breve lista de lo que queda por hacer."
+        },
+        "de": {
+          "name": "Migrator",
+          "description": "Holt Ihre Agenten aus OpenClaw oder NanoClaw in Allkin: Er liest ein Archiv der alten Installation ohne ihre Geheimnisse, schreibt Rolle und Gedächtnis jedes Agenten neu, wandelt seine Fähigkeiten um und gibt Ihnen Archive zum Importieren mit einer kurzen Liste des noch zu Erledigenden."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 3143,
+          "sha256": "29c87bb7f37d10527a6390755f699977ce6ea7f3e779c0749743a8089848dd9e"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2926,
+          "sha256": "47fd60201bffab26d9e966623aae90ec9846ce759bdee741ce1cab0fd48b68c7"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2633,
+          "sha256": "bd8b78dbf3c13d66a4bc21d82122f540db3b81d9f5272043077c4705185b391f"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2846,
+          "sha256": "2f377d8943eeec71ca7ba461dd9a59ffc046faeee7f82de9af25e964d5a398ed"
+        },
+        {
+          "path": "README.md",
+          "size": 2407,
+          "sha256": "7b3ea0e8778e4a6c4608e4147fd1d490e88f96374f996d29cb9047e36d117cbd"
+        },
+        {
+          "path": "agent.json",
+          "size": 1761,
+          "sha256": "919c1c3debe7c059e4fcb639df3ba4f2917263c5f656511fbb113c34cd3610c8"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 542,
+          "sha256": "24d63c5aa9f807a02ab0f38624b7ad3104dd7f259a565e254ee361336ad86bad"
         }
       ]
     }
