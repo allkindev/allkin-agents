@@ -1,0 +1,28 @@
+{
+  "name": "Tutor",
+  "version": "1.0.0",
+  "description": "A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it.",
+  "author": "Allkin",
+  "canBrowseWeb": true,
+  "canSchedule": true,
+  "canRemember": true,
+  "skillIds": ["manage-actions"],
+  "locales": {
+    "en": {
+      "name": "Tutor",
+      "description": "A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it."
+    },
+    "fr": {
+      "name": "Tutor",
+      "description": "Un professeur particulier patient : il cherche ce que vous savez déjà, explique à votre niveau, vous fait pratiquer, vérifie que vous avez vraiment compris, et vous fait revoir ce que vous avez appris avant que vous ne l'oubliiez."
+    },
+    "es": {
+      "name": "Tutor",
+      "description": "Un profesor particular paciente: averigua lo que ya sabe, explica a su nivel, le hace practicar, comprueba que lo ha entendido de verdad y le hace repasar lo aprendido antes de que lo olvide."
+    },
+    "de": {
+      "name": "Tutor",
+      "description": "Ein geduldiger Privatlehrer: Er findet heraus, was Sie schon wissen, erklärt auf Ihrem Niveau, lässt Sie üben, prüft, ob Sie es wirklich verstanden haben, und wiederholt das Gelernte, bevor Sie es vergessen."
+    }
+  }
+}

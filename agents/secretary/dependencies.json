@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "id": "email-drafting",
+      "name": "email-drafting",
+      "description": "Use when the user asks to write, reply to, rephrase or soften an e-mail, a letter or a message to someone — a client, a supplier, a colleague, an administration. Produces a ready-to-send draft with subject line, in the right register."
+    },
+    {
+      "id": "meeting-notes",
+      "name": "meeting-notes",
+      "description": "Use when the user hands over a transcript, a recording's text or rough notes of a meeting and wants minutes, a summary, the decisions or the action items. Produces structured minutes with owners and deadlines."
+    },
+    {
+      "id": "typography",
+      "name": "typography",
+      "description": "Use whenever you write or revise a text meant to be read, published or printed in French, English, Spanish or German — and when the user asks to fix quotes, spaces, apostrophes, dashes, numbers or dates. The typographic rules of each language, with the exact characters to type."
+    },
+    {
+      "id": "manage-actions",
+      "name": "manage-actions",
+      "description": "Use when the user wants something done later, again and again, or whenever something happens on the machine — \"every morning\", \"remind me tomorrow\", \"each Monday\", \"warn me when a sign-in fails\", \"when an agent fails, look into it\", \"after an update\". Creates, reviews and deletes Allkin's actions, at a time or on an event of the event log."
+    }
+  ],
+  "services": []
+}

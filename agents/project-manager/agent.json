@@ -1,0 +1,28 @@
+{
+  "name": "Project Manager",
+  "version": "1.0.0",
+  "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands.",
+  "author": "Allkin",
+  "canSchedule": true,
+  "canTalkToAgents": true,
+  "canRemember": true,
+  "skillIds": ["project-plan", "manage-actions"],
+  "locales": {
+    "en": {
+      "name": "Project Manager",
+      "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands."
+    },
+    "fr": {
+      "name": "Project Manager",
+      "description": "Transforme un objectif en plan et le garde juste : des jalons, des tâches avec un responsable et une date, des risques nommés tôt, et un point régulier qui dit où en est vraiment le projet."
+    },
+    "es": {
+      "name": "Project Manager",
+      "description": "Convierte un objetivo en un plan y lo mantiene fiel: hitos, tareas con responsable y fecha, riesgos nombrados pronto y un informe periódico que dice dónde está de verdad el proyecto."
+    },
+    "de": {
+      "name": "Project Manager",
+      "description": "Macht aus einem Ziel einen Plan und hält ihn aktuell: Meilensteine, Aufgaben mit Verantwortlichem und Termin, früh benannte Risiken und ein regelmäßiger Statusbericht, der zeigt, wo das Projekt wirklich steht."
+    }
+  }
+}

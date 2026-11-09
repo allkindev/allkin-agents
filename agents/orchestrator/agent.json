@@ -1,0 +1,27 @@
+{
+  "name": "Orchestrator",
+  "version": "1.0.0",
+  "description": "Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer.",
+  "author": "Allkin",
+  "canTalkToAgents": true,
+  "canRemember": true,
+  "skillIds": [],
+  "locales": {
+    "en": {
+      "name": "Orchestrator",
+      "description": "Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer."
+    },
+    "fr": {
+      "name": "Orchestrator",
+      "description": "Votre point d'entrée unique : il comprend une demande, confie chaque partie à l'agent le mieux placé avec une consigne complète, contrôle ce qui revient et vous donne une seule réponse."
+    },
+    "es": {
+      "name": "Orchestrator",
+      "description": "Su punto de entrada único: entiende una petición, confía cada parte al agente mejor situado con un encargo completo, comprueba lo que vuelve y le da una sola respuesta."
+    },
+    "de": {
+      "name": "Orchestrator",
+      "description": "Ihre zentrale Anlaufstelle: Er versteht eine Anfrage, übergibt jeden Teil mit einem vollständigen Auftrag an den am besten geeigneten Agenten, prüft die Ergebnisse und gibt Ihnen eine einzige Antwort."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Researcher",
+  "version": "1.0.0",
+  "description": "Finds out and keeps watch: a question answered by a dated brief whose every claim has its source, and a subject followed week after week, reporting only what is new.",
+  "author": "Allkin",
+  "canBrowseWeb": true,
+  "canUseBrowser": true,
+  "canUseSubagents": true,
+  "canSchedule": true,
+  "canRemember": true,
+  "skillIds": ["research-brief", "topic-watch", "manage-actions"],
+  "locales": {
+    "en": {
+      "name": "Researcher",
+      "description": "Finds out and keeps watch: a question answered by a dated brief whose every claim has its source, and a subject followed week after week, reporting only what is new."
+    },
+    "fr": {
+      "name": "Researcher",
+      "description": "Recherche et veille : une question traitée par une note datée dont chaque affirmation a sa source, et un sujet suivi semaine après semaine, en ne signalant que ce qui est nouveau."
+    },
+    "es": {
+      "name": "Researcher",
+      "description": "Investiga y vigila: una pregunta respondida con una nota fechada en la que cada afirmación tiene su fuente, y un tema seguido semana tras semana, informando solo de lo nuevo."
+    },
+    "de": {
+      "name": "Researcher",
+      "description": "Recherchiert und beobachtet: eine Frage, beantwortet mit einem datierten Briefing, in dem jede Aussage ihre Quelle hat, und ein Thema, Woche für Woche verfolgt – gemeldet wird nur das Neue."
+    }
+  }
+}

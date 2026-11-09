@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "id": "server-health-check",
+      "name": "server-health-check",
+      "description": "Use when the user asks to check, audit or watch a Linux server or several — \"is everything fine on\", \"make your round\", \"check the disk / the backups / the certificates / the updates\", a regular health check — or when an action wakes you for a round. A read-only checklist with its commands and thresholds, readings kept from one round to the next, and a report sorted by urgency."
+    },
+    {
+      "id": "incident-report",
+      "name": "incident-report",
+      "description": "Use when something is broken or slow on a machine or a service — \"it does not work\", \"the site is down\", \"the disk is full\", an error in a log — and the user wants it diagnosed, fixed or written up. Drives a step-by-step diagnosis and produces an incident report."
+    },
+    {
+      "id": "manage-actions",
+      "name": "manage-actions",
+      "description": "Use when the user wants something done later, again and again, or whenever something happens on the machine — \"every morning\", \"remind me tomorrow\", \"each Monday\", \"warn me when a sign-in fails\", \"when an agent fails, look into it\", \"after an update\". Creates, reviews and deletes Allkin's actions, at a time or on an event of the event log."
+    }
+  ],
+  "services": []
+}

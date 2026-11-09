@@ -1,0 +1,28 @@
+{
+  "name": "Sentinel",
+  "version": "1.0.0",
+  "description": "Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage.",
+  "author": "Allkin",
+  "canReadSystem": true,
+  "canSchedule": true,
+  "canRemember": true,
+  "skillIds": ["server-health-check", "incident-report", "manage-actions"],
+  "locales": {
+    "en": {
+      "name": "Sentinel",
+      "description": "Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage."
+    },
+    "fr": {
+      "name": "Sentinel",
+      "description": "Veille sur vos serveurs : disque, mémoire, services, mises à jour, certificats, sauvegardes et sécurité vérifiés par des commandes en lecture seule, comparés au passage précédent, signalés avant de devenir une panne."
+    },
+    "es": {
+      "name": "Sentinel",
+      "description": "Vigila sus servidores: disco, memoria, servicios, actualizaciones, certificados, copias de seguridad y seguridad comprobados con comandos de solo lectura, comparados con la vez anterior, avisados antes de que sean una avería."
+    },
+    "de": {
+      "name": "Sentinel",
+      "description": "Wacht über Ihre Server: Festplatte, Speicher, Dienste, Updates, Zertifikate, Backups und Sicherheit, mit rein lesenden Befehlen geprüft, mit dem letzten Mal verglichen und gemeldet, bevor daraus ein Ausfall wird."
+    }
+  }
+}

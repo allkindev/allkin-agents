@@ -4,6 +4,144 @@
   "skills": [],
   "agents": [
     {
+      "id": "analyst",
+      "name": "Analyst",
+      "version": "1.0.0",
+      "description": "Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.801Z",
+      "locales": {
+        "en": {
+          "name": "Analyst",
+          "description": "Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it."
+        },
+        "fr": {
+          "name": "Analyst",
+          "description": "Fait parler les tableaux : il vérifie ce que contient vraiment un fichier CSV ou Excel, calcule chaque chiffre par des scripts — jamais de tête — et remet une courte note avec le tableau et le graphique qui le prouvent."
+        },
+        "es": {
+          "name": "Analyst",
+          "description": "Hace hablar a las tablas: comprueba lo que contiene de verdad un archivo CSV o Excel, calcula cada cifra con scripts —nunca de cabeza— y entrega una breve nota con la tabla y el gráfico que lo demuestran."
+        },
+        "de": {
+          "name": "Analyst",
+          "description": "Bringt Tabellen zum Sprechen: Er prüft, was eine CSV- oder Excel-Datei wirklich enthält, berechnet jede Zahl per Skript – nie im Kopf – und liefert eine kurze Notiz mit der Tabelle und dem Diagramm, die es belegen."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 7202,
+          "sha256": "9d65a8e4a1fefd3dbf0afb083ea1818a78c9874fa248624d45e83b3d389f7c3c"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 3014,
+          "sha256": "dee642e3efaeb925989310393dff3c331c4d30b80de379f25f855f71c67c009c"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2869,
+          "sha256": "58f908ad863f3a5d79805bc654f7eb5e445ffad95ea4eda36c97fc8260bd329f"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 3079,
+          "sha256": "7bb5e258fb0c8a264a5f457bb61a19d0714376855f8f4341dcf64fbacb087fd5"
+        },
+        {
+          "path": "README.md",
+          "size": 2605,
+          "sha256": "18f867c8d21dd9aa53a78ece735d397b68cf5c00c9741decf672c559f821f963"
+        },
+        {
+          "path": "agent.json",
+          "size": 1498,
+          "sha256": "19be522f139ccae39af468a87732db0db6fb8f394f668f74f0a800c234871b87"
+        },
+        {
+          "path": "avatar.png",
+          "size": 140125,
+          "sha256": "5a569ddfbf54de0ddcfd3458250afa56e64656e7958a31bcca7126b7250994b7"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 559,
+          "sha256": "d6547f99c2ffae5c97b50c1ac40f48e9a556adb7a3ef3c21fb377cba568fa7e8"
+        }
+      ]
+    },
+    {
+      "id": "community-manager",
+      "name": "Community Manager",
+      "version": "1.0.0",
+      "description": "Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.812Z",
+      "locales": {
+        "en": {
+          "name": "Community Manager",
+          "description": "Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you."
+        },
+        "fr": {
+          "name": "Community Manager",
+          "description": "Anime vos réseaux sociaux en professionnel : une ligne éditoriale, un calendrier, des publications adaptées et vérifiées pour chaque réseau, des commentaires triés et des réponses dans votre ton, de vrais chiffres. Rien n'est publié sans vous."
+        },
+        "es": {
+          "name": "Community Manager",
+          "description": "Gestiona sus redes sociales como un profesional: una línea editorial, un calendario, publicaciones adaptadas y comprobadas para cada red, comentarios clasificados y respondidos con su voz, cifras reales. Nada se publica sin usted."
+        },
+        "de": {
+          "name": "Community Manager",
+          "description": "Betreut Ihre sozialen Netzwerke professionell: eine redaktionelle Linie, ein Kalender, für jedes Netzwerk angepasste und geprüfte Beiträge, sortierte Kommentare und Antworten in Ihrem Ton, echte Zahlen. Nichts wird ohne Sie veröffentlicht."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 6914,
+          "sha256": "61de419e8d1a61d23fa5fec1779dcc39ee1dd62728783721b2b77da52b8440a5"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2949,
+          "sha256": "c79474f5c9b0d729388e14ea9a0cde41cc1ab18ca78db99f4f48da69d5cc42cc"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2795,
+          "sha256": "fd7db4dfe7f422f87f00244c1ec7d1c999e7e05ada7846142010f0e5682d8665"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2964,
+          "sha256": "775f59b363b34dadb1880074fc40d082867f4e41fba0b758eafe308503bebaa7"
+        },
+        {
+          "path": "README.md",
+          "size": 2544,
+          "sha256": "6c8c5c116cd37572697c70c84058bd4c0b18b0c78ccfa8a745e7933a2faee470"
+        },
+        {
+          "path": "agent.json",
+          "size": 1726,
+          "sha256": "29d415d6ac3b4155e439e3e7dfdf3a53e3fad0aca408e80ad337fed7dca52050"
+        },
+        {
+          "path": "avatar.png",
+          "size": 145727,
+          "sha256": "3e670dc7e1f85080eab6d092867515c787c8a8833a7b45975a3e73ca52aca6b0"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 1448,
+          "sha256": "04e7af3f8961b6d702ce9d289ee6676169490e6fe9ad08fdd49a2bc93c0f1afe"
+        }
+      ]
+    },
+    {
       "id": "developer",
       "name": "Developer",
       "version": "1.0.0",
@@ -75,21 +213,22 @@
     {
       "id": "migrator",
       "name": "Migrator",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list.",
       "author": "Allkin",
-      "updatedAt": "2026-11-06T09:35:16.096Z",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-06T10:35:16+01:00",
       "locales": {
         "en": {
           "name": "Migrator",
           "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list."
         },
         "fr": {
-          "name": "Migrateur",
+          "name": "Migrator",
           "description": "Fait venir vos agents d'OpenClaw ou de NanoClaw dans Allkin : il lit une archive de l'ancienne installation sans ses secrets, réécrit le rôle et la mémoire de chaque agent, convertit ses compétences et vous remet des archives à importer avec une courte liste de ce qui reste à faire."
         },
         "es": {
-          "name": "Migrador",
+          "name": "Migrator",
           "description": "Trae sus agentes de OpenClaw o NanoClaw a Allkin: lee un archivo de la antigua instalación sin sus secretos, reescribe el rol y la memoria de cada agente, convierte sus competencias y le entrega archivos para importar con una breve lista de lo que queda por hacer."
         },
         "de": {
@@ -110,13 +249,13 @@
         },
         {
           "path": "README-ES.md",
-          "size": 2633,
-          "sha256": "bd8b78dbf3c13d66a4bc21d82122f540db3b81d9f5272043077c4705185b391f"
+          "size": 2630,
+          "sha256": "254d8e99aa4f3481967632d01c4be57710a3990b1d49ad3eeceade69def16f9b"
         },
         {
           "path": "README-FR.md",
-          "size": 2846,
-          "sha256": "2f377d8943eeec71ca7ba461dd9a59ffc046faeee7f82de9af25e964d5a398ed"
+          "size": 2841,
+          "sha256": "34cfa5c2b1b02b9ec793a97bfeb01bb8143d54fe9351d1e6fce0d605b1d369d5"
         },
         {
           "path": "README.md",
@@ -125,13 +264,496 @@
         },
         {
           "path": "agent.json",
-          "size": 1761,
-          "sha256": "919c1c3debe7c059e4fcb639df3ba4f2917263c5f656511fbb113c34cd3610c8"
+          "size": 1760,
+          "sha256": "21d7103cfdf57d8c9aa604afa57f0817ceaaf7e191435ba7c4bc4be8ed8fd3bf"
+        },
+        {
+          "path": "avatar.png",
+          "size": 135845,
+          "sha256": "fcd2c1ca0c84298fb8b056144edb43fc2ac0cbad691c2910a584f327ad0d1ee4"
         },
         {
           "path": "dependencies.json",
           "size": 542,
           "sha256": "24d63c5aa9f807a02ab0f38624b7ad3104dd7f259a565e254ee361336ad86bad"
+        }
+      ]
+    },
+    {
+      "id": "orchestrator",
+      "name": "Orchestrator",
+      "version": "1.0.0",
+      "description": "Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.838Z",
+      "locales": {
+        "en": {
+          "name": "Orchestrator",
+          "description": "Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer."
+        },
+        "fr": {
+          "name": "Orchestrator",
+          "description": "Votre point d'entrée unique : il comprend une demande, confie chaque partie à l'agent le mieux placé avec une consigne complète, contrôle ce qui revient et vous donne une seule réponse."
+        },
+        "es": {
+          "name": "Orchestrator",
+          "description": "Su punto de entrada único: entiende una petición, confía cada parte al agente mejor situado con un encargo completo, comprueba lo que vuelve y le da una sola respuesta."
+        },
+        "de": {
+          "name": "Orchestrator",
+          "description": "Ihre zentrale Anlaufstelle: Er versteht eine Anfrage, übergibt jeden Teil mit einem vollständigen Auftrag an den am besten geeigneten Agenten, prüft die Ergebnisse und gibt Ihnen eine einzige Antwort."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 7301,
+          "sha256": "93096bbbc007d7629e68cc9cd520f2c2edb1c62209c4ab88859c8ee1c7e1baf6"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2369,
+          "sha256": "adf49d4f4176ac2a43947dbc0459dc1b245b064b648d9eccd62a8c2b2018f54c"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2142,
+          "sha256": "6cda4553a04edb08176ba0423bc0072393e979688ca9ffc7cdc5ad12c48a677a"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2285,
+          "sha256": "20346bee62e7dea52d1c302a15d05070164b38a7f9e9a6f5609b2f5065f982ff"
+        },
+        {
+          "path": "README.md",
+          "size": 2036,
+          "sha256": "25ea90f62e20f197452557970df07ce57be9fb6e2f1d1ff6389bc83dfe9f96cc"
+        },
+        {
+          "path": "agent.json",
+          "size": 1388,
+          "sha256": "27e4431a00e97ec57a06f8579be643d8d07cb9655e368eeba9172e13b1d619f9"
+        },
+        {
+          "path": "avatar.png",
+          "size": 147446,
+          "sha256": "dba56034f73b27077edbd3fec42c147134b26ea0d29389ecb76d123ceb732651"
+        }
+      ]
+    },
+    {
+      "id": "project-manager",
+      "name": "Project Manager",
+      "version": "1.0.0",
+      "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.851Z",
+      "locales": {
+        "en": {
+          "name": "Project Manager",
+          "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands."
+        },
+        "fr": {
+          "name": "Project Manager",
+          "description": "Transforme un objectif en plan et le garde juste : des jalons, des tâches avec un responsable et une date, des risques nommés tôt, et un point régulier qui dit où en est vraiment le projet."
+        },
+        "es": {
+          "name": "Project Manager",
+          "description": "Convierte un objetivo en un plan y lo mantiene fiel: hitos, tareas con responsable y fecha, riesgos nombrados pronto y un informe periódico que dice dónde está de verdad el proyecto."
+        },
+        "de": {
+          "name": "Project Manager",
+          "description": "Macht aus einem Ziel einen Plan und hält ihn aktuell: Meilensteine, Aufgaben mit Verantwortlichem und Termin, früh benannte Risiken und ein regelmäßiger Statusbericht, der zeigt, wo das Projekt wirklich steht."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 7251,
+          "sha256": "bcb860a4b22962250ac07d4f7d704333bb1788b59c72071bc12d470b6b08ac56"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2398,
+          "sha256": "3b04f200756657aacc1f4f6742d6899a7bcd2129b4ed68e2c5d431e02626e1c0"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2238,
+          "sha256": "1664baa8ba4d532c567f33b3cbd3e394737a29ac879b63d6bf3b8c11c7482d67"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2367,
+          "sha256": "fd9c763e971fecf17dcd12b4e123b5d522b25c105dc03ecec750c79108941e6c"
+        },
+        {
+          "path": "README.md",
+          "size": 1950,
+          "sha256": "411c4682cf997860b9d9c3e220a647eba7f12ce7056b8d9c9ebba33772bcabb8"
+        },
+        {
+          "path": "agent.json",
+          "size": 1475,
+          "sha256": "a364f446eeb09a290eacabfaabb9f20c70823cd2a97ff9991d8f3148116b7a59"
+        },
+        {
+          "path": "avatar.png",
+          "size": 133168,
+          "sha256": "ebeaf7b345f1eebe4ed415513115392fc5d3e98b844d9e135e5961176d77b189"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 810,
+          "sha256": "155edcd49a0f2743439bf1d253c92a72e9073790658dabf9fcba5454d53a329c"
+        }
+      ]
+    },
+    {
+      "id": "researcher",
+      "name": "Researcher",
+      "version": "1.0.0",
+      "description": "Finds out and keeps watch: a question answered by a dated brief whose every claim has its source, and a subject followed week after week, reporting only what is new.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.864Z",
+      "locales": {
+        "en": {
+          "name": "Researcher",
+          "description": "Finds out and keeps watch: a question answered by a dated brief whose every claim has its source, and a subject followed week after week, reporting only what is new."
+        },
+        "fr": {
+          "name": "Researcher",
+          "description": "Recherche et veille : une question traitée par une note datée dont chaque affirmation a sa source, et un sujet suivi semaine après semaine, en ne signalant que ce qui est nouveau."
+        },
+        "es": {
+          "name": "Researcher",
+          "description": "Investiga y vigila: una pregunta respondida con una nota fechada en la que cada afirmación tiene su fuente, y un tema seguido semana tras semana, informando solo de lo nuevo."
+        },
+        "de": {
+          "name": "Researcher",
+          "description": "Recherchiert und beobachtet: eine Frage, beantwortet mit einem datierten Briefing, in dem jede Aussage ihre Quelle hat, und ein Thema, Woche für Woche verfolgt – gemeldet wird nur das Neue."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 6870,
+          "sha256": "499e6dcc8bc56c678aa920cd03376a31ee1311bfdb10680899b695144498d537"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2628,
+          "sha256": "b1fdcf683c1dea41823a19d17759e356b5b82d4ce2da31e2d272940230b0a526"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2440,
+          "sha256": "2075c9ef04d126e5d47dfe090b1e3c628897c1c453269ac4e327b5fe19c2195a"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2609,
+          "sha256": "c64ed19b9cbb8150e5bbc9301b00ea9373f2b9a5253290d557079a1856652c20"
+        },
+        {
+          "path": "README.md",
+          "size": 2179,
+          "sha256": "45949f909ff4ded4cf82d54cc697b702844e77c00079061fd6387b7a5c520ce9"
+        },
+        {
+          "path": "agent.json",
+          "size": 1463,
+          "sha256": "e27e3255ff5952e7d4c3290194b5953934f373e346f2c2108ea7a6be4b34817d"
+        },
+        {
+          "path": "avatar.png",
+          "size": 137381,
+          "sha256": "0690ce722f25954d9403b60935dc661ab598bc8825f545574b18d5f25b6357f2"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 1322,
+          "sha256": "02de1adf2567361878b4e74fb30c62893e47664d21eaa6a367afa3b281d55730"
+        }
+      ]
+    },
+    {
+      "id": "secretary",
+      "name": "Secretary",
+      "version": "1.0.0",
+      "description": "Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.878Z",
+      "locales": {
+        "en": {
+          "name": "Secretary",
+          "description": "Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time."
+        },
+        "fr": {
+          "name": "Secretary",
+          "description": "Votre assistant administratif : des courriers et des e-mails prêts à envoyer, des comptes rendus de réunion, des documents Word et Excel remplis, et la liste de tout ce qui est en attente, rappelée au bon moment."
+        },
+        "es": {
+          "name": "Secretary",
+          "description": "Su asistente administrativo: cartas y correos listos para enviar, actas de reunión, documentos Word y Excel rellenados, y la lista de todo lo que está pendiente, recordada en el momento oportuno."
+        },
+        "de": {
+          "name": "Secretary",
+          "description": "Ihre Büroassistenz: versandfertige Briefe und E-Mails, Besprechungsprotokolle, ausgefüllte Word- und Excel-Dokumente und eine Liste alles Offenen, rechtzeitig wieder vorgelegt."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 7396,
+          "sha256": "e83df20fc485b7e5640a68cc1ef6471ea3885e9cfc6c45d872829d6100095d68"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2574,
+          "sha256": "a3d58f40f834f1c9a0216b72b010058d47b8b42a28250b8487251228f00a8fc8"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2421,
+          "sha256": "4fe0edb3ee4e40437e60816616f09ad02235b67dd723a2bf6315b38b8130b41c"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2653,
+          "sha256": "73e6ec77967726f234eaf391734eec1182addfa662822edece4564bc40d825e5"
+        },
+        {
+          "path": "README.md",
+          "size": 2211,
+          "sha256": "679fea800fe898f958b78f8b15943a24e19460da89849c27e832ba5d9affcd88"
+        },
+        {
+          "path": "agent.json",
+          "size": 1502,
+          "sha256": "c97e7205cb9db7e76c92395cb1fe4a06df9226183a161658baae0844f98d18f1"
+        },
+        {
+          "path": "avatar.png",
+          "size": 140521,
+          "sha256": "55bdb9e9d937bbded03f444ca5a50d9aac9f32f8f500e06e92e7731ba567db31"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 1527,
+          "sha256": "b39ba8eeb3d97e1d33bdb4e4146e4b808b462398ea57bb61dd619191843adc98"
+        }
+      ]
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "version": "1.0.0",
+      "description": "Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.893Z",
+      "locales": {
+        "en": {
+          "name": "Sentinel",
+          "description": "Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage."
+        },
+        "fr": {
+          "name": "Sentinel",
+          "description": "Veille sur vos serveurs : disque, mémoire, services, mises à jour, certificats, sauvegardes et sécurité vérifiés par des commandes en lecture seule, comparés au passage précédent, signalés avant de devenir une panne."
+        },
+        "es": {
+          "name": "Sentinel",
+          "description": "Vigila sus servidores: disco, memoria, servicios, actualizaciones, certificados, copias de seguridad y seguridad comprobados con comandos de solo lectura, comparados con la vez anterior, avisados antes de que sean una avería."
+        },
+        "de": {
+          "name": "Sentinel",
+          "description": "Wacht über Ihre Server: Festplatte, Speicher, Dienste, Updates, Zertifikate, Backups und Sicherheit, mit rein lesenden Befehlen geprüft, mit dem letzten Mal verglichen und gemeldet, bevor daraus ein Ausfall wird."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 8425,
+          "sha256": "f5b1c8069e2bb4ccac89ebec84f2ec59146b9608f89bdb5a4ddb2487f2733539"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 3354,
+          "sha256": "b20346a8cc59743971e47fd3079f6c0bfed48efa53a7630ab52931efede6f5d0"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 3122,
+          "sha256": "7d8815291aa4edea8433d33f37f1e025b61cd6bab2b7af782a21ad9cd673d6c5"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 3312,
+          "sha256": "0635464bae1d9cec312336619f3ad6232bfb67579a5e93160b1bc3c6fe26358f"
+        },
+        {
+          "path": "README.md",
+          "size": 2781,
+          "sha256": "09251a674e981dd22a2b15af81d4c090dd8b8695881fb0a9faa7ca610e8f206c"
+        },
+        {
+          "path": "agent.json",
+          "size": 1580,
+          "sha256": "97fdfd05f6c612e8673f87b326353d3496ab1f17804bcc11166ac988a6bd0492"
+        },
+        {
+          "path": "avatar.png",
+          "size": 140568,
+          "sha256": "3c29337da0e00129c54b0a16637aa5162a8a240480834c2e7338e2f58ea62948"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 1388,
+          "sha256": "48a17201927e73d9e361bacb148426f18fe43278a68b7a0f8e9e44e9775a92eb"
+        }
+      ]
+    },
+    {
+      "id": "tutor",
+      "name": "Tutor",
+      "version": "1.0.0",
+      "description": "A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.909Z",
+      "locales": {
+        "en": {
+          "name": "Tutor",
+          "description": "A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it."
+        },
+        "fr": {
+          "name": "Tutor",
+          "description": "Un professeur particulier patient : il cherche ce que vous savez déjà, explique à votre niveau, vous fait pratiquer, vérifie que vous avez vraiment compris, et vous fait revoir ce que vous avez appris avant que vous ne l'oubliiez."
+        },
+        "es": {
+          "name": "Tutor",
+          "description": "Un profesor particular paciente: averigua lo que ya sabe, explica a su nivel, le hace practicar, comprueba que lo ha entendido de verdad y le hace repasar lo aprendido antes de que lo olvide."
+        },
+        "de": {
+          "name": "Tutor",
+          "description": "Ein geduldiger Privatlehrer: Er findet heraus, was Sie schon wissen, erklärt auf Ihrem Niveau, lässt Sie üben, prüft, ob Sie es wirklich verstanden haben, und wiederholt das Gelernte, bevor Sie es vergessen."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 8067,
+          "sha256": "b4e5e39ca109bc54f32791ea3a34fed8aa8428b1606c3bf226acd294ad87285b"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2701,
+          "sha256": "af425de7e5b7fcbae40d289b9e3bba8bc6dd0d690c07bff06ccc4bd37090fd1d"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2473,
+          "sha256": "dbb3c0dc966d4c20fce3119cf0fb2afd78eaf944e4e602711d7def85c49065d3"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2760,
+          "sha256": "9716a6b3279a9b92795075a4007295895446004d754b70dbaab2ee62aaea6c88"
+        },
+        {
+          "path": "README.md",
+          "size": 2337,
+          "sha256": "971a3592ddbfb93a34e647164d868aa8988efc43237092f5eeeef76f13b222f5"
+        },
+        {
+          "path": "agent.json",
+          "size": 1500,
+          "sha256": "7dba53a4ed4cf0037343e7a08bb93eda830002040957dc7427db39f51781a0e2"
+        },
+        {
+          "path": "avatar.png",
+          "size": 138681,
+          "sha256": "0000e894a44a94ee21bdc5be723fc40801e5b26226e37c37efa1e8d055bde07b"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 515,
+          "sha256": "061471b3c8281316875f2ca83fedd9d12ef9c56416706d1db5168d6dce1f05a6"
+        }
+      ]
+    },
+    {
+      "id": "writer",
+      "name": "Writer",
+      "version": "1.0.0",
+      "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-09T21:17:43.922Z",
+      "locales": {
+        "en": {
+          "name": "Writer",
+          "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice."
+        },
+        "fr": {
+          "name": "Writer",
+          "description": "Un rédacteur et correcteur qui remet des textes finis : il fixe le lecteur et le but avant d'écrire, fait un plan, rédige, révise en passes distinctes, vérifie chaque fait et apprend votre style."
+        },
+        "es": {
+          "name": "Writer",
+          "description": "Un redactor y corrector que entrega textos terminados: fija el lector y el propósito antes de escribir, planifica, redacta, revisa en pasadas distintas, comprueba cada dato y aprende su estilo."
+        },
+        "de": {
+          "name": "Writer",
+          "description": "Ein Autor und Lektor, der fertige Texte liefert: Er klärt Leser und Zweck vor dem Schreiben, plant, entwirft, überarbeitet in getrennten Durchgängen, prüft jede Tatsache und lernt Ihren Stil."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 9324,
+          "sha256": "c88402063011d2e58fcf47f1fb073f048c2a3ea9c4c9b05b1709e4c56dc83555"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 2831,
+          "sha256": "6eea0a6b184e980a67cda691e16905894f67846b682a595c30ebd8d681fea4a3"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 2732,
+          "sha256": "3ffd267a0c00585fb1e163dcaf0cc45d65220d88a55110d690225d98b21f0ad2"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 2985,
+          "sha256": "e283932901fc73f1247f745db9ff9402044f5d8238ca6fc9526eab6d0cc62bf5"
+        },
+        {
+          "path": "README.md",
+          "size": 2465,
+          "sha256": "bed4074aac083a2e1bfe9c1018986bbbfd0f41e4eb750df2ab465d4cc05aed2f"
+        },
+        {
+          "path": "agent.json",
+          "size": 1466,
+          "sha256": "1ca8843ca93281ab9e126a90639cff9742ab51e68ce41ee31eecb45340ece95b"
+        },
+        {
+          "path": "avatar.png",
+          "size": 146395,
+          "sha256": "076df9b92b6768ecbd7812dbe1396ed242e7eb6583a06b75ef076da69cbe50ad"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 899,
+          "sha256": "7a13701e9dd3ed9bde3fbef782cb926aa309c7d520e7237c7479c00ab8c0e003"
         }
       ]
     }

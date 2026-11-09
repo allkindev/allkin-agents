@@ -16,7 +16,7 @@ agents/<id>/
 ├── dependencies.json   optional: the competences and services it uses (installed on their own
 │                       terms: a competence is downloaded when the agent is given it)
 ├── memory.json         optional: the facts it starts with
-└── avatar.png          optional: its picture (jpg accepted too)
+└── avatar.png          its picture, 512 px (jpg accepted too): every model ships with one
 ```
 
 The simplest way to write one: export an agent from its Agent page in Allkin, unzip the `.allkin`
@@ -24,7 +24,17 @@ archive into `agents/<id>/`, add the README files, then run the catalogue.
 
 | Model | What it is for |
 |---|---|
+| `orchestrator` | Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer. |
 | `developer` | A software developer that works like Claude Code: it explores a code base before touching it, plans, changes little, verifies by running the tests and the build, and reports plainly. |
+| `writer` | A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice. |
+| `researcher` | Finds out and keeps watch: a question answered by a dated brief whose every claim has its source, and a subject followed week after week, reporting only what is new. |
+| `analyst` | Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it. |
+| `secretary` | Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time. |
+| `project-manager` | Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands. |
+| `community-manager` | Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you. |
+| `sentinel` | Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage. |
+| `tutor` | A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it. |
+| `migrator` | Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list. |
 
 ## Layout
 

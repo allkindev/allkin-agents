@@ -1,6 +1,6 @@
 {
   "name": "Migrator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list.",
   "author": "Allkin",
   "canRemember": true,
@@ -11,11 +11,11 @@
       "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list."
     },
     "fr": {
-      "name": "Migrateur",
+      "name": "Migrator",
       "description": "Fait venir vos agents d'OpenClaw ou de NanoClaw dans Allkin : il lit une archive de l'ancienne installation sans ses secrets, réécrit le rôle et la mémoire de chaque agent, convertit ses compétences et vous remet des archives à importer avec une courte liste de ce qui reste à faire."
     },
     "es": {
-      "name": "Migrador",
+      "name": "Migrator",
       "description": "Trae sus agentes de OpenClaw o NanoClaw a Allkin: lee un archivo de la antigua instalación sin sus secretos, reescribe el rol y la memoria de cada agente, convierte sus competencias y le entrega archivos para importar con una breve lista de lo que queda por hacer."
     },
     "de": {
