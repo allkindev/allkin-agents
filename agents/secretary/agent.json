@@ -1,0 +1,27 @@
+{
+  "name": "Secretary",
+  "version": "1.0.0",
+  "description": "Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time.",
+  "author": "Allkin",
+  "canSchedule": true,
+  "canRemember": true,
+  "skillIds": ["email-drafting", "meeting-notes", "typography", "manage-actions"],
+  "locales": {
+    "en": {
+      "name": "Secretary",
+      "description": "Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time."
+    },
+    "fr": {
+      "name": "Secretary",
+      "description": "Votre assistant administratif : des courriers et des e-mails prêts à envoyer, des comptes rendus de réunion, des documents Word et Excel remplis, et la liste de tout ce qui est en attente, rappelée au bon moment."
+    },
+    "es": {
+      "name": "Secretary",
+      "description": "Su asistente administrativo: cartas y correos listos para enviar, actas de reunión, documentos Word y Excel rellenados, y la lista de todo lo que está pendiente, recordada en el momento oportuno."
+    },
+    "de": {
+      "name": "Secretary",
+      "description": "Ihre Büroassistenz: versandfertige Briefe und E-Mails, Besprechungsprotokolle, ausgefüllte Word- und Excel-Dokumente und eine Liste alles Offenen, rechtzeitig wieder vorgelegt."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "id": "community-management",
+      "name": "community-management",
+      "description": "Use when the user talks about their social networks — X, Facebook, Instagram, Threads, LinkedIn, YouTube, TikTok, Mastodon, Bluesky, Pinterest —, about posts to write or schedule, followers, comments or mentions to answer, an editorial line or calendar, hashtags, or social figures and reports. Writes, adapts and checks posts per network, triages the inbox, measures; publishes only through the networks' services, each post approved by the user."
+    },
+    {
+      "id": "typography",
+      "name": "typography",
+      "description": "Use whenever you write or revise a text meant to be read, published or printed in French, English, Spanish or German — and when the user asks to fix quotes, spaces, apostrophes, dashes, numbers or dates. The typographic rules of each language, with the exact characters to type."
+    },
+    {
+      "id": "manage-actions",
+      "name": "manage-actions",
+      "description": "Use when the user wants something done later, again and again, or whenever something happens on the machine — \"every morning\", \"remind me tomorrow\", \"each Monday\", \"warn me when a sign-in fails\", \"when an agent fails, look into it\", \"after an update\". Creates, reviews and deletes Allkin's actions, at a time or on an event of the event log."
+    }
+  ],
+  "services": []
+}

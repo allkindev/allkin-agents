@@ -1,4 +1,4 @@
-# Migrateur
+# Migrator
 
 Un agent qui fait venir dans Allkin vos agents d'**OpenClaw** (ex-Clawdbot, Moltbot) ou de
 **NanoClaw**. Donnez-lui un zip de votre ancienne installation : il laisse les secrets de côté,
@@ -35,7 +35,7 @@ actions, chacune approuvée par vous.
 1. Sur l'ancienne machine, faites un zip de l'installation :
    - OpenClaw : `cd ~ && zip -r openclaw.zip .openclaw -x '.openclaw/agents/*/sessions/*' '*/node_modules/*'`
    - NanoClaw : `zip -r nanoclaw.zip nanoclaw -x '*/node_modules/*' 'nanoclaw/data/sessions/*'`
-2. Ouvrez une conversation avec le Migrateur, joignez le zip, demandez-lui la migration.
+2. Ouvrez une conversation avec Migrator, joignez le zip, demandez-lui la migration.
 3. Répondez à son formulaire, puis suivez sa liste : importez chaque archive (le « + » de la
    liste des agents › Importer un agent), ajoutez le dépôt de compétences, accordez les droits,
    connectez les services.

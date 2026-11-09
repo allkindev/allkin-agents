@@ -1,0 +1,28 @@
+{
+  "name": "Community Manager",
+  "version": "1.0.0",
+  "description": "Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you.",
+  "author": "Allkin",
+  "canBrowseWeb": true,
+  "canSchedule": true,
+  "canRemember": true,
+  "skillIds": ["community-management", "typography", "manage-actions"],
+  "locales": {
+    "en": {
+      "name": "Community Manager",
+      "description": "Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you."
+    },
+    "fr": {
+      "name": "Community Manager",
+      "description": "Anime vos réseaux sociaux en professionnel : une ligne éditoriale, un calendrier, des publications adaptées et vérifiées pour chaque réseau, des commentaires triés et des réponses dans votre ton, de vrais chiffres. Rien n'est publié sans vous."
+    },
+    "es": {
+      "name": "Community Manager",
+      "description": "Gestiona sus redes sociales como un profesional: una línea editorial, un calendario, publicaciones adaptadas y comprobadas para cada red, comentarios clasificados y respondidos con su voz, cifras reales. Nada se publica sin usted."
+    },
+    "de": {
+      "name": "Community Manager",
+      "description": "Betreut Ihre sozialen Netzwerke professionell: eine redaktionelle Linie, ein Kalender, für jedes Netzwerk angepasste und geprüfte Beiträge, sortierte Kommentare und Antworten in Ihrem Ton, echte Zahlen. Nichts wird ohne Sie veröffentlicht."
+    }
+  }
+}

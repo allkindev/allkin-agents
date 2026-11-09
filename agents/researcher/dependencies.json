@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "id": "research-brief",
+      "name": "research-brief",
+      "description": "Use when the user asks to look something up, compare products or options, check a fact, find out \"what is the state of\", or wants a summary of what is known on a topic. Needs web access. Produces a short brief with sources, dated."
+    },
+    {
+      "id": "topic-watch",
+      "name": "topic-watch",
+      "description": "Use when the user wants a subject followed over time — competitors, prices, a product, a technology, a regulation, a call for tenders, mentions of a name — \"keep an eye on\", \"tell me when\", \"every week\", \"what's new on\", or when an action wakes you for a watch run. Sets a watch up in files, then at each run reports only what is new since the last one. Needs web access."
+    },
+    {
+      "id": "manage-actions",
+      "name": "manage-actions",
+      "description": "Use when the user wants something done later, again and again, or whenever something happens on the machine — \"every morning\", \"remind me tomorrow\", \"each Monday\", \"warn me when a sign-in fails\", \"when an agent fails, look into it\", \"after an update\". Creates, reviews and deletes Allkin's actions, at a time or on an event of the event log."
+    }
+  ],
+  "services": []
+}

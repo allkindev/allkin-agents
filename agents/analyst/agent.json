@@ -1,0 +1,26 @@
+{
+  "name": "Analyst",
+  "version": "1.0.0",
+  "description": "Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it.",
+  "author": "Allkin",
+  "canRemember": true,
+  "skillIds": ["data-analysis"],
+  "locales": {
+    "en": {
+      "name": "Analyst",
+      "description": "Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it."
+    },
+    "fr": {
+      "name": "Analyst",
+      "description": "Fait parler les tableaux : il vérifie ce que contient vraiment un fichier CSV ou Excel, calcule chaque chiffre par des scripts — jamais de tête — et remet une courte note avec le tableau et le graphique qui le prouvent."
+    },
+    "es": {
+      "name": "Analyst",
+      "description": "Hace hablar a las tablas: comprueba lo que contiene de verdad un archivo CSV o Excel, calcula cada cifra con scripts —nunca de cabeza— y entrega una breve nota con la tabla y el gráfico que lo demuestran."
+    },
+    "de": {
+      "name": "Analyst",
+      "description": "Bringt Tabellen zum Sprechen: Er prüft, was eine CSV- oder Excel-Datei wirklich enthält, berechnet jede Zahl per Skript – nie im Kopf – und liefert eine kurze Notiz mit der Tabelle und dem Diagramm, die es belegen."
+    }
+  }
+}

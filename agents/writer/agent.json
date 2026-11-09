@@ -1,0 +1,28 @@
+{
+  "name": "Writer",
+  "version": "1.0.0",
+  "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice.",
+  "author": "Allkin",
+  "canBrowseWeb": true,
+  "canUseSubagents": true,
+  "canRemember": true,
+  "skillIds": ["writing-revision", "typography"],
+  "locales": {
+    "en": {
+      "name": "Writer",
+      "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice."
+    },
+    "fr": {
+      "name": "Writer",
+      "description": "Un rédacteur et correcteur qui remet des textes finis : il fixe le lecteur et le but avant d'écrire, fait un plan, rédige, révise en passes distinctes, vérifie chaque fait et apprend votre style."
+    },
+    "es": {
+      "name": "Writer",
+      "description": "Un redactor y corrector que entrega textos terminados: fija el lector y el propósito antes de escribir, planifica, redacta, revisa en pasadas distintas, comprueba cada dato y aprende su estilo."
+    },
+    "de": {
+      "name": "Writer",
+      "description": "Ein Autor und Lektor, der fertige Texte liefert: Er klärt Leser und Zweck vor dem Schreiben, plant, entwirft, überarbeitet in getrennten Durchgängen, prüft jede Tatsache und lernt Ihren Stil."
+    }
+  }
+}
