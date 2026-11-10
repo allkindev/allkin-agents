@@ -10,7 +10,7 @@
       "description": "Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.801Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Analyst",
@@ -79,7 +79,7 @@
       "description": "Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.812Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Community Manager",
@@ -217,7 +217,7 @@
       "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-06T10:35:16+01:00",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Migrator",
@@ -286,7 +286,7 @@
       "description": "Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.838Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Orchestrator",
@@ -350,7 +350,7 @@
       "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.851Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Project Manager",
@@ -419,7 +419,7 @@
       "description": "Finds out and keeps watch: a question answered by a dated brief whose every claim has its source, and a subject followed week after week, reporting only what is new.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.864Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Researcher",
@@ -488,7 +488,7 @@
       "description": "Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.878Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Secretary",
@@ -557,7 +557,7 @@
       "description": "Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.893Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Sentinel",
@@ -620,13 +620,82 @@
       ]
     },
     {
+      "id": "smart-home",
+      "name": "Smart Home",
+      "version": "1.0.0",
+      "description": "The administrator of your Home Assistant: it hears new Zigbee, Z-Wave and RFXCOM devices and takes them in with you, names everything by a clear scheme, organises the rooms, writes automations, scripts and scenes, builds dashboards, and watches over the health of the installation.",
+      "author": "Allkin",
+      "icon": "avatar.png",
+      "updatedAt": "2026-11-10T22:47:20.350Z",
+      "locales": {
+        "en": {
+          "name": "Smart Home",
+          "description": "The administrator of your Home Assistant: it hears new Zigbee, Z-Wave and RFXCOM devices and takes them in with you, names everything by a clear scheme, organises the rooms, writes automations, scripts and scenes, builds dashboards, and watches over the health of the installation."
+        },
+        "fr": {
+          "name": "Smart Home",
+          "description": "L'administrateur de votre Home Assistant : il écoute les nouveaux périphériques Zigbee, Z-Wave et RFXCOM et les accueille avec vous, nomme tout selon un schéma clair, organise les pièces, écrit les automatismes, les scripts et les scènes, construit les tableaux de bord et veille sur la santé de l'installation."
+        },
+        "es": {
+          "name": "Smart Home",
+          "description": "El administrador de su Home Assistant: escucha los nuevos dispositivos Zigbee, Z-Wave y RFXCOM y los incorpora con usted, nombra todo según un esquema claro, organiza las habitaciones, escribe automatizaciones, scripts y escenas, construye paneles y vigila la salud de la instalación."
+        },
+        "de": {
+          "name": "Smart Home",
+          "description": "Der Administrator Ihres Home Assistant: Er hört neue Zigbee-, Z-Wave- und RFXCOM-Geräte und nimmt sie mit Ihnen auf, benennt alles nach einem klaren Schema, ordnet die Räume, schreibt Automationen, Skripte und Szenen, baut Dashboards und wacht über den Zustand der Installation."
+        }
+      },
+      "files": [
+        {
+          "path": "CLAUDE.md",
+          "size": 8333,
+          "sha256": "7da508456af06beef48ccd223985ac6641d4e5b0b5c77a79777feaaa633bff8a"
+        },
+        {
+          "path": "README-DE.md",
+          "size": 4289,
+          "sha256": "a5d98141a008df88cfe780d2bb94386315b931a35e23efeb943fa35bc3448228"
+        },
+        {
+          "path": "README-ES.md",
+          "size": 4091,
+          "sha256": "ee366f16101fa91502786d9ecdf3c3d34f28b14b2addeb94a68e35378253c0b0"
+        },
+        {
+          "path": "README-FR.md",
+          "size": 4428,
+          "sha256": "a5933a19f8443c85fab4040b7932f023738cb3569c57c64a1fb01b89fa3df42f"
+        },
+        {
+          "path": "README.md",
+          "size": 3711,
+          "sha256": "7a39996b279c3968595a76dbc23ac52a908c2d0c7dc5f9a328c282ec5f50e341"
+        },
+        {
+          "path": "agent.json",
+          "size": 2015,
+          "sha256": "9d0cd79062c72ae8557d2494a63fe17a0e80e203290a22122e5a44e9b3550eb1"
+        },
+        {
+          "path": "avatar.png",
+          "size": 144932,
+          "sha256": "819d1dc0c39e3ad0d789557abf831d9e553cee9288166e4bbc0f080eb04ab1de"
+        },
+        {
+          "path": "dependencies.json",
+          "size": 1222,
+          "sha256": "074553a4f7c73c69505687b0395190cd03f6c9fe6ed5c1586117b925a0270370"
+        }
+      ]
+    },
+    {
       "id": "tutor",
       "name": "Tutor",
       "version": "1.0.0",
       "description": "A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.909Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Tutor",
@@ -695,7 +764,7 @@
       "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T21:17:43.922Z",
+      "updatedAt": "2026-11-09T22:17:44+01:00",
       "locales": {
         "en": {
           "name": "Writer",
