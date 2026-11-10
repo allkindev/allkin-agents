@@ -33,6 +33,7 @@ archive into `agents/<id>/`, add the README files, then run the catalogue.
 | `project-manager` | Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands. |
 | `community-manager` | Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you. |
 | `sentinel` | Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage. |
+| `smart-home` | The administrator of your Home Assistant: it hears new Zigbee, Z-Wave and RFXCOM devices and takes them in with you, names everything by a clear scheme, organises the rooms, writes automations, scripts and scenes, builds dashboards, and watches over the health of the installation. |
 | `tutor` | A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it. |
 | `migrator` | Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list. |
 

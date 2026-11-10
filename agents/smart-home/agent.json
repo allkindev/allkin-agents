@@ -1,0 +1,29 @@
+{
+  "name": "Smart Home",
+  "version": "1.0.0",
+  "description": "The administrator of your Home Assistant: it hears new Zigbee, Z-Wave and RFXCOM devices and takes them in with you, names everything by a clear scheme, organises the rooms, writes automations, scripts and scenes, builds dashboards, and watches over the health of the installation.",
+  "author": "Allkin",
+  "canBrowseWeb": true,
+  "canSchedule": true,
+  "canRemember": true,
+  "enabledServiceIds": ["home-assistant"],
+  "skillIds": ["home-assistant-admin", "manage-actions"],
+  "locales": {
+    "en": {
+      "name": "Smart Home",
+      "description": "The administrator of your Home Assistant: it hears new Zigbee, Z-Wave and RFXCOM devices and takes them in with you, names everything by a clear scheme, organises the rooms, writes automations, scripts and scenes, builds dashboards, and watches over the health of the installation."
+    },
+    "fr": {
+      "name": "Smart Home",
+      "description": "L'administrateur de votre Home Assistant : il écoute les nouveaux périphériques Zigbee, Z-Wave et RFXCOM et les accueille avec vous, nomme tout selon un schéma clair, organise les pièces, écrit les automatismes, les scripts et les scènes, construit les tableaux de bord et veille sur la santé de l'installation."
+    },
+    "es": {
+      "name": "Smart Home",
+      "description": "El administrador de su Home Assistant: escucha los nuevos dispositivos Zigbee, Z-Wave y RFXCOM y los incorpora con usted, nombra todo según un esquema claro, organiza las habitaciones, escribe automatizaciones, scripts y escenas, construye paneles y vigila la salud de la instalación."
+    },
+    "de": {
+      "name": "Smart Home",
+      "description": "Der Administrator Ihres Home Assistant: Er hört neue Zigbee-, Z-Wave- und RFXCOM-Geräte und nimmt sie mit Ihnen auf, benennt alles nach einem klaren Schema, ordnet die Räume, schreibt Automationen, Skripte und Szenen, baut Dashboards und wacht über den Zustand der Installation."
+    }
+  }
+}
