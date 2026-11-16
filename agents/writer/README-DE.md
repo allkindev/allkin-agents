@@ -30,6 +30,7 @@ Agentenseite:
 | **Gedächtnis** (standardmäßig an) | Um Ihren Stil und Ihren Hausstil zu lernen. |
 | **Fähigkeiten: Textüberarbeitung, Typografie** | Seine Überarbeitungsmethode und die typografischen Regeln jeder Sprache; heruntergeladen, wenn Sie sie ihm geben. |
 | **Fähigkeiten: E-Mails verfassen, Klare Antworten** (optional) | Für E-Mails und kurze Antworten. |
+| **Fähigkeit: Word- und Excel-Dokumente** | Die Werkzeuge, die `.docx`- und `.xlsx`-Dateien an Ort und Stelle lesen und ändern; ohne sie hat der Agent keines davon. |
 
 Er braucht keinen Systemzugriff: Er arbeitet in seinem Ordner, im gemeinsamen Ordner und im
 Arbeitsordner der Unterhaltung und ändert Word-Dokumente mit den Office-Werkzeugen von Allkin.

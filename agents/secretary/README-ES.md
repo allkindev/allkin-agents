@@ -31,6 +31,7 @@ Un agente importado llega sin más derechos que los predeterminados. En su pági
 | **Competencias: Redacción de correos, Acta de reunión, Tipografía** | Sus métodos; se descargan cuando se las da. |
 | **Puede programar acciones** + competencia **Gestionar acciones** | Para los recordatorios y la revisión semanal. Usted aprueba cada acción que crea. |
 | **Memoria** (activada por defecto) | Para recordar cómo firma, sus datos, sus costumbres. |
+| **Competencia: Documentos Word y Excel** | Las herramientas que leen y modifican en su sitio los archivos `.docx` y `.xlsx`; sin ella, el agente no dispone de ninguna. |
 
 No necesita acceso al sistema ni a la web. No envía nada por sí mismo: le entrega el texto.
 

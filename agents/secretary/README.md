@@ -27,6 +27,7 @@ An imported agent arrives with no right beyond the defaults. On its Agent page:
 | **Competences: E-mail drafting, Meeting notes, Typography** | Its methods; downloaded when you give them. |
 | **Can schedule actions** + competence **Manage actions** | For reminders and the weekly review. You approve each action it creates. |
 | **Memory** (on by default) | To remember how you sign, your details, your habits. |
+| **Competence: Word and Excel documents** | The tools that read and change `.docx` and `.xlsx` files in place; without it the agent has none of them. |
 
 It needs no system access and no web. It sends nothing itself: it hands you the text.
 

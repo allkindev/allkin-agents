@@ -32,6 +32,7 @@ Un agent importé arrive sans autre droit que ceux par défaut. Sur sa page Agen
 |---|---|
 | **Compétence : Analyse de données** | Sa méthode et ses scripts. Ils tournent dans un cadre fermé : Node seul, aucun réseau, lecture et écriture dans son propre dossier uniquement. Le premier lancement vous présente une carte ; vous pouvez approuver les scripts de cette compétence pour la session ou définitivement. |
 | **Mémoire** (activée par défaut) | Pour retenir comment sont faits vos exports et vos définitions — jamais vos chiffres. |
+| **Compétence : Documents Word et Excel** | Les outils qui lisent et modifient sur place les fichiers `.docx` et `.xlsx` ; sans elle, l'agent n'en a aucun. |
 
 Il n'a besoin ni d'accès système, ni du web, ni d'un service.
 

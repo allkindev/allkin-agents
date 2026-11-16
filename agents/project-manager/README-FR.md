@@ -29,6 +29,7 @@ Un agent importé arrive sans autre droit que ceux par défaut. Sur sa page Agen
 | **Compétence : Plan de projet** | La forme de ses plans ; téléchargée quand vous la lui donnez. |
 | **Peut communiquer avec les autres agents** (activé par défaut) | Pour leur confier des tâches. |
 | **Mémoire** (activée par défaut) | Pour retenir vos projets et la forme que vous voulez pour ses points. |
+| **Compétence : Documents Word et Excel** | Les outils qui lisent et modifient sur place les fichiers `.docx` et `.xlsx` ; sans elle, l'agent n'en a aucun. |
 
 Il n'a besoin ni d'accès système ni du web.
 

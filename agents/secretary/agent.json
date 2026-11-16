@@ -1,11 +1,11 @@
 {
   "name": "Secretary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time.",
   "author": "Allkin",
   "canSchedule": true,
   "canRemember": true,
-  "skillIds": ["email-drafting", "meeting-notes", "typography", "manage-actions"],
+  "skillIds": ["email-drafting", "meeting-notes", "typography", "manage-actions", "office-documents"],
   "locales": {
     "en": {
       "name": "Secretary",

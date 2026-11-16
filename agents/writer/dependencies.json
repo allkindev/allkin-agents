@@ -10,6 +10,11 @@
       "id": "typography",
       "name": "typography",
       "description": "Use whenever you write or revise a text meant to be read, published or printed in French, English, Spanish or German — and when the user asks to fix quotes, spaces, apostrophes, dashes, numbers or dates. The typographic rules of each language, with the exact characters to type."
+    },
+    {
+      "id": "office-documents",
+      "name": "office-documents",
+      "description": "Use when the user hands over, names or asks for a Word or Excel document (.docx, .xlsx) — read a contract, fill in a form, correct a letter, update a table, add rows to a workbook, restyle a report, \"make me a Word document\", \"put this in Excel\". Reads the document as numbered blocks or cells, changes it in place without damaging what it does not touch, and creates new ones."
     }
   ],
   "services": []

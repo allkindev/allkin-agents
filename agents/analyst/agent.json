@@ -1,10 +1,10 @@
 {
   "name": "Analyst",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it.",
   "author": "Allkin",
   "canRemember": true,
-  "skillIds": ["data-analysis"],
+  "skillIds": ["data-analysis", "office-documents"],
   "locales": {
     "en": {
       "name": "Analyst",

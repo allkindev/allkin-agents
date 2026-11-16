@@ -27,6 +27,7 @@ An imported agent arrives with no right beyond the defaults. On its Agent page:
 | **Competence: Project plan** | The shape of its plans; downloaded when you give it. |
 | **Can talk to other agents** (on by default) | To hand tasks to them. |
 | **Memory** (on by default) | To remember your projects and how you like your reports. |
+| **Competence: Word and Excel documents** | The tools that read and change `.docx` and `.xlsx` files in place; without it the agent has none of them. |
 
 It needs no system access and no web.
 

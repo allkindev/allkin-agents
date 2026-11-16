@@ -1,12 +1,12 @@
 {
   "name": "Project Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands.",
   "author": "Allkin",
   "canSchedule": true,
   "canTalkToAgents": true,
   "canRemember": true,
-  "skillIds": ["project-plan", "manage-actions"],
+  "skillIds": ["project-plan", "manage-actions", "office-documents"],
   "locales": {
     "en": {
       "name": "Project Manager",

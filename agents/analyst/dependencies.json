@@ -5,6 +5,11 @@
       "id": "data-analysis",
       "name": "data-analysis",
       "description": "Use when the user hands over a table — a CSV, a TSV or an Excel file (.xlsx) — or asks for figures from one: totals, averages, a breakdown by category or by month, a ranking, a comparison, a trend, a chart, \"what do these numbers say\". Profiles the file, computes every figure with scripts (never by reading the rows), draws plain charts as SVG, and writes a short note of what the numbers show."
+    },
+    {
+      "id": "office-documents",
+      "name": "office-documents",
+      "description": "Use when the user hands over, names or asks for a Word or Excel document (.docx, .xlsx) — read a contract, fill in a form, correct a letter, update a table, add rows to a workbook, restyle a report, \"make me a Word document\", \"put this in Excel\". Reads the document as numbered blocks or cells, changes it in place without damaging what it does not touch, and creates new ones."
     }
   ],
   "services": []

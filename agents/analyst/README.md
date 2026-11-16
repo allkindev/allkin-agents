@@ -32,6 +32,7 @@ An imported agent arrives with no right beyond the defaults. On its Agent page:
 |---|---|
 | **Competence: Data analysis** | Its method and its scripts. They run in a closed frame: Node alone, no network, reading and writing its own folder only. The first run shows you a card; you may approve this competence's scripts for the session or for good. |
 | **Memory** (on by default) | To remember how your exports are built and your definitions — never your figures. |
+| **Competence: Word and Excel documents** | The tools that read and change `.docx` and `.xlsx` files in place; without it the agent has none of them. |
 
 It needs no system access, no web, no service.
 

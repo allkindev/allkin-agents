@@ -32,6 +32,7 @@ Un agent importé arrive sans aucun droit. Writer travaille au mieux avec, sur s
 | **Mémoire** (activée par défaut) | Pour apprendre votre style et votre charte éditoriale. |
 | **Compétences : Relecture et révision, Typographie** | Sa méthode de révision et les règles typographiques de chaque langue ; téléchargées quand vous les lui donnez. |
 | **Compétences : Rédaction d'e-mails, Réponses claires** (facultatives) | Pour les e-mails et les réponses courtes. |
+| **Compétence : Documents Word et Excel** | Les outils qui lisent et modifient sur place les fichiers `.docx` et `.xlsx` ; sans elle, l'agent n'en a aucun. |
 
 Il n'a besoin d'aucun accès système : il travaille dans son dossier, le dossier partagé et le
 dossier de travail de la conversation, et modifie les documents Word avec les outils Office

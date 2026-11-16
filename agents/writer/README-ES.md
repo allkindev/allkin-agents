@@ -29,6 +29,7 @@ Un agente importado llega sin ningún derecho. Writer trabaja mejor con, en su p
 | **Memoria** (activada por defecto) | Para aprender su estilo y su guía de estilo. |
 | **Competencias: Revisión de textos, Tipografía** | Su método de revisión y las reglas tipográficas de cada idioma; se descargan cuando se las da. |
 | **Competencias: Redacción de correos, Respuestas claras** (opcionales) | Para los correos y las respuestas breves. |
+| **Competencia: Documentos Word y Excel** | Las herramientas que leen y modifican en su sitio los archivos `.docx` y `.xlsx`; sin ella, el agente no dispone de ninguna. |
 
 No necesita acceso al sistema: trabaja en su carpeta, la carpeta compartida y la carpeta de
 trabajo de la conversación, y modifica los documentos Word con las herramientas Office de Allkin.

@@ -32,6 +32,7 @@ Ein importierter Agent kommt ohne Rechte außer den Standardrechten. Auf seiner 
 |---|---|
 | **Fähigkeit: Datenanalyse** | Seine Methode und seine Skripte. Sie laufen in einem geschlossenen Rahmen: nur Node, kein Netzwerk, Lesen und Schreiben nur im eigenen Ordner. Der erste Lauf zeigt Ihnen eine Karte; Sie können die Skripte dieser Fähigkeit für die Sitzung oder dauerhaft freigeben. |
 | **Gedächtnis** (standardmäßig an) | Um zu behalten, wie Ihre Exporte aufgebaut sind, und Ihre Definitionen – nie Ihre Zahlen. |
+| **Fähigkeit: Word- und Excel-Dokumente** | Die Werkzeuge, die `.docx`- und `.xlsx`-Dateien an Ort und Stelle lesen und ändern; ohne sie hat der Agent keines davon. |
 
 Er braucht weder Systemzugriff noch Web noch einen Dienst.
 

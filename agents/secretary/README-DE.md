@@ -31,6 +31,7 @@ Ein importierter Agent kommt ohne Rechte außer den Standardrechten. Auf seiner 
 | **Fähigkeiten: E-Mails verfassen, Besprechungsprotokoll, Typografie** | Seine Methoden; heruntergeladen, wenn Sie sie ihm geben. |
 | **Darf Aktionen planen** + Fähigkeit **Aktionen verwalten** | Für Erinnerungen und die Wochenübersicht. Sie genehmigen jede Aktion, die er anlegt. |
 | **Gedächtnis** (standardmäßig an) | Um Ihre Unterschrift, Ihre Angaben und Ihre Gewohnheiten zu behalten. |
+| **Fähigkeit: Word- und Excel-Dokumente** | Die Werkzeuge, die `.docx`- und `.xlsx`-Dateien an Ort und Stelle lesen und ändern; ohne sie hat der Agent keines davon. |
 
 Er braucht weder Systemzugriff noch das Web. Er versendet nichts selbst: Er übergibt Ihnen den
 Text.

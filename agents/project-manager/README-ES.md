@@ -28,6 +28,7 @@ Un agente importado llega sin más derechos que los predeterminados. En su pági
 | **Competencia: Plan de proyecto** | La forma de sus planes; se descarga cuando se la da. |
 | **Puede comunicarse con los demás agentes** (activado por defecto) | Para confiarles tareas. |
 | **Memoria** (activada por defecto) | Para recordar sus proyectos y cómo le gustan los informes. |
+| **Competencia: Documentos Word y Excel** | Las herramientas que leen y modifican en su sitio los archivos `.docx` y `.xlsx`; sin ella, el agente no dispone de ninguna. |
 
 No necesita acceso al sistema ni a la web.
 

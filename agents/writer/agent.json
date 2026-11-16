@@ -1,12 +1,12 @@
 {
   "name": "Writer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice.",
   "author": "Allkin",
   "canBrowseWeb": true,
   "canUseSubagents": true,
   "canRemember": true,
-  "skillIds": ["writing-revision", "typography"],
+  "skillIds": ["writing-revision", "typography", "office-documents"],
   "locales": {
     "en": {
       "name": "Writer",

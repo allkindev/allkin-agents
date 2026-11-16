@@ -20,6 +20,11 @@
       "id": "manage-actions",
       "name": "manage-actions",
       "description": "Use when the user wants something done later, again and again, or whenever something happens on the machine — \"every morning\", \"remind me tomorrow\", \"each Monday\", \"warn me when a sign-in fails\", \"when an agent fails, look into it\", \"after an update\". Creates, reviews and deletes Allkin's actions, at a time or on an event of the event log."
+    },
+    {
+      "id": "office-documents",
+      "name": "office-documents",
+      "description": "Use when the user hands over, names or asks for a Word or Excel document (.docx, .xlsx) — read a contract, fill in a form, correct a letter, update a table, add rows to a workbook, restyle a report, \"make me a Word document\", \"put this in Excel\". Reads the document as numbered blocks or cells, changes it in place without damaging what it does not touch, and creates new ones."
     }
   ],
   "services": []

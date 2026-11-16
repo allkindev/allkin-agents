@@ -28,6 +28,7 @@ An imported agent arrives with no right. Writer works best with, on its Agent pa
 | **Memory** (on by default) | To learn your voice and your house style. |
 | **Competences: Writing revision, Typography** | Its method of revision and the typographic rules of each language; downloaded when you give them. |
 | **Competences: E-mail drafting, Clear answers** (optional) | For e-mails and short answers. |
+| **Competence: Word and Excel documents** | The tools that read and change `.docx` and `.xlsx` files in place; without it the agent has none of them. |
 
 It needs no system access: it works in its own folder, the shared folder and the work folder of
 the conversation, and changes Word documents with Allkin's Office tools.

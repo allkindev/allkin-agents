@@ -31,6 +31,7 @@ Un agent importé arrive sans autre droit que ceux par défaut. Sur sa page Agen
 | **Compétences : Rédaction d'e-mails, Compte rendu de réunion, Typographie** | Ses méthodes ; téléchargées quand vous les lui donnez. |
 | **Peut planifier des actions** + compétence **Gérer les actions** | Pour les rappels et la revue hebdomadaire. Vous approuvez chaque action qu'il crée. |
 | **Mémoire** (activée par défaut) | Pour retenir votre signature, vos coordonnées, vos habitudes. |
+| **Compétence : Documents Word et Excel** | Les outils qui lisent et modifient sur place les fichiers `.docx` et `.xlsx` ; sans elle, l'agent n'en a aucun. |
 
 Il n'a besoin ni d'accès système ni du web. Il n'envoie rien lui-même : il vous remet le texte.
 

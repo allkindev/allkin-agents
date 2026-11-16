@@ -32,6 +32,7 @@ Un agente importado llega sin más derechos que los predeterminados. En su pági
 |---|---|
 | **Competencia: Análisis de datos** | Su método y sus scripts. Se ejecutan en un marco cerrado: solo Node, sin red, leyendo y escribiendo únicamente su propia carpeta. La primera ejecución le muestra una tarjeta; puede aprobar los scripts de esta competencia para la sesión o para siempre. |
 | **Memoria** (activada por defecto) | Para recordar cómo están hechas sus exportaciones y sus definiciones, nunca sus cifras. |
+| **Competencia: Documentos Word y Excel** | Las herramientas que leen y modifican en su sitio los archivos `.docx` y `.xlsx`; sin ella, el agente no dispone de ninguna. |
 
 No necesita acceso al sistema, ni web, ni ningún servicio.
 

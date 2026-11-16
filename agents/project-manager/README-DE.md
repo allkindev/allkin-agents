@@ -28,6 +28,7 @@ Ein importierter Agent kommt ohne Rechte außer den Standardrechten. Auf seiner 
 | **Fähigkeit: Projektplan** | Die Form seiner Pläne; heruntergeladen, wenn Sie sie ihm geben. |
 | **Darf mit anderen Agenten kommunizieren** (standardmäßig an) | Um ihnen Aufgaben zu übergeben. |
 | **Gedächtnis** (standardmäßig an) | Um Ihre Projekte und Ihre bevorzugte Berichtsform zu behalten. |
+| **Fähigkeit: Word- und Excel-Dokumente** | Die Werkzeuge, die `.docx`- und `.xlsx`-Dateien an Ort und Stelle lesen und ändern; ohne sie hat der Agent keines davon. |
 
 Er braucht weder Systemzugriff noch das Web.
 
