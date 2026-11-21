@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "id": "system-administration",
+      "name": "system-administration",
+      "description": "Use whenever the machine itself must be changed or looked after — install, update or remove software, update the system, manage services, users and groups, disks, firewall rules, SSH, network, scheduled maintenance, or write an automation script — on any system (Debian, Ubuntu, Fedora, RHEL, Arch, openSUSE, Alpine, Void, Gentoo, Solus, WSL, containers; macOS, FreeBSD and Windows too). Detect the system first, then the safe way to change it: back up, change little, verify, keep the way back."
+    },
+    {
+      "id": "allkin-admin",
+      "name": "allkin-admin",
+      "description": "Use for anything about Allkin itself on this machine — how it is installed and where its files are, its service, its logs, its updates and backups, its agents, actions, integrations, services, competences, settings, firewall and SSH pages, its event log — or when the user asks \"how do I … in Allkin\", \"why does Allkin …\", \"set Allkin up so that …\", \"Allkin is down / slow / broken\". What you do yourself with your tools, what you hand to the user as a precise path in the interface, and the lines you never cross."
+    },
+    {
+      "id": "manage-actions",
+      "name": "manage-actions",
+      "description": "Use when the user wants something done later, again and again, or whenever something happens on the machine — \"every morning\", \"remind me tomorrow\", \"each Monday\", \"warn me when a sign-in fails\", \"when an agent fails, look into it\", \"after an update\". Creates, reviews and deletes Allkin's actions, at a time or on an event of the event log."
+    },
+    {
+      "id": "incident-report",
+      "name": "incident-report",
+      "description": "Use when something is broken or slow on a machine or a service — \"it does not work\", \"the site is down\", \"the disk is full\", an error in a log — and the user wants it diagnosed, fixed or written up. Drives a step-by-step diagnosis and produces an incident report."
+    }
+  ],
+  "services": []
+}
