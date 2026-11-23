@@ -20,8 +20,9 @@ Void, Gentoo, mit oder ohne systemd, in einem Container oder unter WSL.
 - **Automatisierungsskripte**: ohne Schaden wiederholbar, mit Probelauf, Protokoll und
   Benachrichtigung bei einem Fehler; Sie starten sie als Verknüpfung, oder eine Allkin-Aktion
   führt sie aus.
-- **Allkin**: Er kennt es in- und auswendig — Dienst, Protokolle, Updates, Sicherungen,
-  Ereignisprotokoll, Seiten und Einstellungen. Aktionen und Agenten erstellt er selbst; für das,
+- **Allkin**: Er kennt es in- und auswendig — Dokumentation, Dienst, Protokolle, Updates,
+  Sicherungen, Ereignisprotokoll, Seiten und Einstellungen. Fragen Sie ihn, wie etwas in Allkin
+  geht: Er antwortet und führt Sie Schritt für Schritt. Aktionen und Agenten erstellt er selbst; für das,
   was Ihnen zusteht (Rechte, Einstellungen, die Installation einer Integration), gibt er Ihnen den
   genauen Weg in der Oberfläche.
 - **Ein Datenblatt der Maschine und ein Protokoll jeder Änderung** in seinem Ordner: was

@@ -18,8 +18,9 @@ systemd o sin él, en un contenedor o bajo WSL.
   cortar nunca su acceso, con la vuelta atrás preparada antes de cualquier cambio arriesgado.
 - **Scripts de automatización**: repetibles sin daño, con un ensayo en seco, un registro y una
   notificación si fallan; usted los lanza como atajo, o una acción de Allkin los ejecuta.
-- **Allkin**: lo conoce a fondo — su servicio, registros, actualizaciones, copias de seguridad,
-  registro de eventos, páginas y ajustes. Crea él mismo las acciones y los agentes; para lo que le
+- **Allkin**: lo conoce a fondo — su documentación, su servicio, registros, actualizaciones,
+  copias de seguridad, registro de eventos, páginas y ajustes. Pregúntele cómo hacer algo en
+  Allkin: le responde y le guía paso a paso. Crea él mismo las acciones y los agentes; para lo que le
   corresponde a usted (los derechos, los ajustes, instalar una integración), le da la ruta exacta
   en la interfaz.
 - **Una ficha de la máquina y un registro de cada cambio**, en su carpeta: lo instalado, cómo

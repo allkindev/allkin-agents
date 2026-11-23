@@ -18,8 +18,9 @@ container or under WSL.
   never cutting your way in, with the way back armed before any risky change.
 - **Automation scripts**: idempotent, with a dry run, logs and a notification on failure; you
   start them as a Shortcut, or an Allkin action runs them.
-- **Allkin**: it knows it inside out — its service, logs, updates, backups, event log, pages and
-  settings. It creates actions and agents itself; for what is yours (rights, settings, installing
+- **Allkin**: it knows it inside out — its documentation, its service, logs, updates, backups,
+  event log, pages and settings. Ask it how something is done in Allkin: it answers and guides
+  you step by step. It creates actions and agents itself; for what is yours (rights, settings, installing
   an integration), it gives you the exact path in the interface.
 - **A sheet of the machine and a log of every change**, in its folder: what is installed, how you
   reach it, what was changed, when, and how to undo it.

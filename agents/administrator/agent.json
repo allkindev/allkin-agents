@@ -1,7 +1,7 @@
 {
   "name": "Administrator",
-  "version": "1.0.0",
-  "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — on whatever system it finds, every command on its card.",
+  "version": "1.0.1",
+  "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — every command on its card.",
   "author": "Allkin",
   "canAdminSystem": true,
   "canReadSystem": true,
@@ -15,19 +15,19 @@
   "locales": {
     "en": {
       "name": "Administrator",
-      "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — on whatever system it finds, every command on its card."
+      "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — every command on its card."
     },
     "fr": {
       "name": "Administrator",
-      "description": "L'administrateur de la machine où tourne Allkin, et d'Allkin lui-même : root par sudo, il installe et désinstalle les logiciels, met à jour le système, gère les services, les utilisateurs, les règles de pare-feu et SSH, écrit des scripts d'automatisation et crée les actions d'Allkin — quel que soit le système qu'il trouve, chaque commande sur sa carte."
+      "description": "L'administrateur de la machine d'Allkin et d'Allkin lui-même : root par sudo, il installe et désinstalle les logiciels, met à jour le système, gère les services, les utilisateurs, le pare-feu et SSH, écrit des scripts d'automatisation et crée les actions d'Allkin — chaque commande sur sa carte."
     },
     "es": {
       "name": "Administrator",
-      "description": "El administrador de la máquina donde funciona Allkin, y del propio Allkin: root mediante sudo, instala y desinstala software, actualiza el sistema, gestiona servicios, usuarios, reglas de cortafuegos y SSH, escribe scripts de automatización y crea las acciones de Allkin — sea cual sea el sistema que encuentre, cada comando en su tarjeta."
+      "description": "El administrador de la máquina de Allkin y del propio Allkin: root mediante sudo, instala y desinstala software, actualiza el sistema, gestiona servicios, usuarios, cortafuegos y SSH, escribe scripts de automatización y crea las acciones de Allkin — cada comando en su tarjeta."
     },
     "de": {
       "name": "Administrator",
-      "description": "Der Administrator der Maschine, auf der Allkin läuft, und von Allkin selbst: Root über sudo, installiert und entfernt Software, aktualisiert das System, verwaltet Dienste, Benutzer, Firewall-Regeln und SSH, schreibt Automatisierungsskripte und erstellt die Aktionen von Allkin — auf jedem System, das er vorfindet, jeder Befehl auf seiner Karte."
+      "description": "Der Administrator der Maschine von Allkin und von Allkin selbst: Root über sudo, installiert und entfernt Software, aktualisiert das System, verwaltet Dienste, Benutzer, Firewall und SSH, schreibt Automatisierungsskripte und erstellt die Aktionen von Allkin — jeder Befehl auf seiner Karte."
     }
   }
 }

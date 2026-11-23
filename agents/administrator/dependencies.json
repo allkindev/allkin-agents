@@ -9,7 +9,7 @@
     {
       "id": "allkin-admin",
       "name": "allkin-admin",
-      "description": "Use for anything about Allkin itself on this machine — how it is installed and where its files are, its service, its logs, its updates and backups, its agents, actions, integrations, services, competences, settings, firewall and SSH pages, its event log — or when the user asks \"how do I … in Allkin\", \"why does Allkin …\", \"set Allkin up so that …\", \"Allkin is down / slow / broken\". What you do yourself with your tools, what you hand to the user as a precise path in the interface, and the lines you never cross."
+      "description": "Use for anything about Allkin itself — how it is used (agents, models, rights, conversations, memory, files, missions, actions, shortcuts, services, integrations, competences, split screen, keyboard shortcuts), how it is installed and where its files are, its service, its logs, its updates and backups, its settings, firewall and SSH pages, its event log — or when the user asks \"how do I … in Allkin\", \"what is … in Allkin\", \"why does Allkin …\", \"set Allkin up so that …\", \"Allkin is down / slow / broken\". Allkin's documentation, what you do yourself with your tools, what you hand to the user as a precise path in the interface, and the lines you never cross."
     },
     {
       "id": "manage-actions",

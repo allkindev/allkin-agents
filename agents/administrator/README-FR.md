@@ -20,8 +20,10 @@ openSUSE, Alpine, Void, Gentoo, avec systemd ou sans, dans un conteneur ou sous 
 - **Des scripts d'automatisation** : rejouables sans dommage, avec un essai à blanc, un journal et
   une notification en cas d'échec ; vous les lancez en raccourci, ou une action d'Allkin les
   exécute.
-- **Allkin** : il le connaît sur le bout des doigts — son service, ses journaux, ses mises à jour,
-  ses sauvegardes, son journal d'événements, ses pages et ses réglages. Il crée lui-même les
+- **Allkin** : il le connaît sur le bout des doigts — sa documentation, son service, ses
+  journaux, ses mises à jour, ses sauvegardes, son journal d'événements, ses pages et ses
+  réglages. Demandez-lui comment faire quelque chose dans Allkin : il vous répond et vous guide
+  pas à pas. Il crée lui-même les
   actions et les agents ; pour ce qui vous revient (les droits, les réglages, l'installation d'une
   intégration), il vous donne le chemin exact dans l'interface.
 - **Une fiche de la machine et un registre de chaque changement**, dans son dossier : ce qui est

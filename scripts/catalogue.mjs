@@ -345,6 +345,7 @@ const skills = existsSync(SKILLS_DIR)
    banner. Allkin installs one through the identity card of an import: the
    agent arrives with no right at all, whatever the card says. */
 const AGENTS_DIR = join(ROOT, "agents");
+const AGENT_DESCRIPTION_MAX = 300;
 
 function readAgent(id) {
   const dir = join(AGENTS_DIR, id);
@@ -362,6 +363,12 @@ function readAgent(id) {
   if (typeof m.name !== "string" || !m.name.trim()) failAgent("name is required.");
   if (!VERSION_PATTERN.test(String(m.version ?? ""))) failAgent("version expected as 1.0.N (1.0.0, 1.0.1, 1.0.12…).");
   if (typeof m.description !== "string" || !m.description.trim()) failAgent("description is required.");
+  // Allkin caps an agent's description at 300 characters (AGENT_DESCRIPTION_MAX):
+  // a longer one would be refused on the card of the import.
+  const descriptions = [["description", m.description], ...Object.entries(m.locales ?? {}).map(([lang, l]) => [`locales.${lang}.description`, l?.description])];
+  for (const [field, text] of descriptions) {
+    if (typeof text === "string" && text.trim().length > AGENT_DESCRIPTION_MAX) failAgent(`${field}: ${text.trim().length} characters, ${AGENT_DESCRIPTION_MAX} at most.`);
+  }
   const files = listFiles(dir).map(({ path, st }) => {
     if (!path.split("/").every((s) => SEGMENT_PATTERN.test(s))) failAgent(`file name Allkin refuses: ${path}`);
     if (st.size > MAX_FILE_BYTES) failAgent(`${path} exceeds 20 MB.`);
