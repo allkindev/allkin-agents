@@ -1,6 +1,6 @@
 {
   "name": "Tutor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it.",
   "author": "Allkin",
   "canBrowseWeb": true,

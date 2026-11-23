@@ -1,6 +1,6 @@
 {
   "name": "Writer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice.",
   "author": "Allkin",
   "canBrowseWeb": true,

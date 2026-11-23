@@ -1,6 +1,6 @@
 {
   "name": "Orchestrator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer.",
   "author": "Allkin",
   "canTalkToAgents": true,

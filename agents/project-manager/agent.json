@@ -1,6 +1,6 @@
 {
   "name": "Project Manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands.",
   "author": "Allkin",
   "canSchedule": true,

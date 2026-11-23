@@ -6,80 +6,80 @@
     {
       "id": "administrator",
       "name": "Administrator",
-      "version": "1.0.0",
-      "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — on whatever system it finds, every command on its card.",
+      "version": "1.0.1",
+      "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — every command on its card.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-21T06:33:58.619Z",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Administrator",
-          "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — on whatever system it finds, every command on its card."
+          "description": "The administrator of the machine Allkin runs on, and of Allkin itself: root through sudo, it installs and removes software, updates the system, manages services, users, firewall rules and SSH, writes automation scripts and creates Allkin's actions — every command on its card."
         },
         "fr": {
           "name": "Administrator",
-          "description": "L'administrateur de la machine où tourne Allkin, et d'Allkin lui-même : root par sudo, il installe et désinstalle les logiciels, met à jour le système, gère les services, les utilisateurs, les règles de pare-feu et SSH, écrit des scripts d'automatisation et crée les actions d'Allkin — quel que soit le système qu'il trouve, chaque commande sur sa carte."
+          "description": "L'administrateur de la machine d'Allkin et d'Allkin lui-même : root par sudo, il installe et désinstalle les logiciels, met à jour le système, gère les services, les utilisateurs, le pare-feu et SSH, écrit des scripts d'automatisation et crée les actions d'Allkin — chaque commande sur sa carte."
         },
         "es": {
           "name": "Administrator",
-          "description": "El administrador de la máquina donde funciona Allkin, y del propio Allkin: root mediante sudo, instala y desinstala software, actualiza el sistema, gestiona servicios, usuarios, reglas de cortafuegos y SSH, escribe scripts de automatización y crea las acciones de Allkin — sea cual sea el sistema que encuentre, cada comando en su tarjeta."
+          "description": "El administrador de la máquina de Allkin y del propio Allkin: root mediante sudo, instala y desinstala software, actualiza el sistema, gestiona servicios, usuarios, cortafuegos y SSH, escribe scripts de automatización y crea las acciones de Allkin — cada comando en su tarjeta."
         },
         "de": {
           "name": "Administrator",
-          "description": "Der Administrator der Maschine, auf der Allkin läuft, und von Allkin selbst: Root über sudo, installiert und entfernt Software, aktualisiert das System, verwaltet Dienste, Benutzer, Firewall-Regeln und SSH, schreibt Automatisierungsskripte und erstellt die Aktionen von Allkin — auf jedem System, das er vorfindet, jeder Befehl auf seiner Karte."
+          "description": "Der Administrator der Maschine von Allkin und von Allkin selbst: Root über sudo, installiert und entfernt Software, aktualisiert das System, verwaltet Dienste, Benutzer, Firewall und SSH, schreibt Automatisierungsskripte und erstellt die Aktionen von Allkin — jeder Befehl auf seiner Karte."
         }
       },
       "files": [
         {
           "path": "CLAUDE.md",
-          "size": 8112,
-          "sha256": "72602710ab1d3c4c391ed70354ace7b3a6edf889e20b3a3ec4d4c6a1f7829555"
+          "size": 8564,
+          "sha256": "8e2ac62d2276b4559a43efe10ef59120295c207707b29146e52daeb023c42776"
         },
         {
           "path": "README-DE.md",
-          "size": 5029,
-          "sha256": "808e8e6ab10c903f7439f872ca58e6d92c955c5ea9a457f83d9b76ddd46836c5"
+          "size": 5138,
+          "sha256": "439ed2f3f4160e1a96bc3f04e93f7923f1a5c97063e9b42b51e74e12067f2555"
         },
         {
           "path": "README-ES.md",
-          "size": 4696,
-          "sha256": "308d41132a0676ccbdfda54412f301e82f75d0c761e158baac9589232fca130d"
+          "size": 4793,
+          "sha256": "c5543580d66dd2bfb44f153c30e195697a014303232ecb010c73d565dd7c393c"
         },
         {
           "path": "README-FR.md",
-          "size": 5118,
-          "sha256": "13537995b7e7f91904121449a98f04076264187934fc3cc63a5d8271da8b8328"
+          "size": 5237,
+          "sha256": "ef7ee6bdeaac68c8724a46748b8fc857b57fb48559cbe2dfd787f08678a2a97d"
         },
         {
           "path": "README.md",
-          "size": 4181,
-          "sha256": "092432d4b8cf873cbfaff2f3b9c52b6107ba71fd8cee71d034d2338c2d42212b"
+          "size": 4282,
+          "sha256": "3dadc1b872fb4ba09d9354f9fc88d459e632890cc501266fb1067f81f0142bf9"
         },
         {
           "path": "agent.json",
-          "size": 2379,
-          "sha256": "93b4fddea63ea6d19c530c544008c14dab366df3f00d602d07ee48fcf79c204a"
+          "size": 2141,
+          "sha256": "f2023131e686cd432cf157c61a79d95e4a4a33c77fbf8edefbc22e0f107292ba"
         },
         {
           "path": "avatar.png",
-          "size": 149532,
-          "sha256": "5556a4ef6917ebfc1b5f02aa2e01436301c1b397381038a9440518ae2c086d4c"
+          "size": 138294,
+          "sha256": "ee32af52d65afa9e6029cd0e53d4cff644671656ba0d059dc81d09a12e256a79"
         },
         {
           "path": "dependencies.json",
-          "size": 2128,
-          "sha256": "6a0d6c5105228842a39ff1574c9720b6e149e35d257170acbfef6aed7487bfbe"
+          "size": 2281,
+          "sha256": "e21b957cdc7aec663102efef658bee993fd6f13786b8a3b9fe5dc4869e0dbf49"
         }
       ]
     },
     {
       "id": "analyst",
       "name": "Analyst",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Makes tables speak: it checks what a CSV or Excel file really contains, computes every figure with scripts — never in its head — and hands over a short note with the table and the chart that prove it.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-16T23:25:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Analyst",
@@ -127,12 +127,12 @@
         {
           "path": "agent.json",
           "size": 1518,
-          "sha256": "a0e8f944e7e72b72e098a14ab1d901e899b5b19ee37a4554f7b290f374ddeaaa"
+          "sha256": "9347edcadc9b0a0af401fba2e0107f3644ebeec4379c0cc24adf24ff3404ab65"
         },
         {
           "path": "avatar.png",
-          "size": 140125,
-          "sha256": "5a569ddfbf54de0ddcfd3458250afa56e64656e7958a31bcca7126b7250994b7"
+          "size": 151255,
+          "sha256": "53c35cc8d633c991ed2fa2d9864f204b07351bd66d1cc06e28708a656d6e0540"
         },
         {
           "path": "dependencies.json",
@@ -144,11 +144,11 @@
     {
       "id": "community-manager",
       "name": "Community Manager",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Runs your social networks like a professional: an editorial line, a calendar, posts adapted and checked for each network, comments triaged and answered in your voice, real figures. Nothing is published without you.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T22:17:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Community Manager",
@@ -196,12 +196,12 @@
         {
           "path": "agent.json",
           "size": 1726,
-          "sha256": "29d415d6ac3b4155e439e3e7dfdf3a53e3fad0aca408e80ad337fed7dca52050"
+          "sha256": "57c59918a42e3ab6fd51edf24228fec0bdf7290119caf26b0c41bb219ad1675d"
         },
         {
           "path": "avatar.png",
-          "size": 145727,
-          "sha256": "3e670dc7e1f85080eab6d092867515c787c8a8833a7b45975a3e73ca52aca6b0"
+          "size": 140167,
+          "sha256": "d167178bd702c0e4cdb671c46d82baae3fe2c31da3efa1d968b80f45c7f3bacd"
         },
         {
           "path": "dependencies.json",
@@ -213,11 +213,11 @@
     {
       "id": "developer",
       "name": "Developer",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "A software developer that works like Claude Code: it explores a code base before touching it, plans, changes little, verifies by running the tests and the build, and reports plainly.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-03T12:00:39+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Developer",
@@ -265,12 +265,12 @@
         {
           "path": "agent.json",
           "size": 1469,
-          "sha256": "3c70d0623a78c6b0f0fa2b64c7e3e9af175615e2a8d8deea2b87d3f77e8f3379"
+          "sha256": "0962ada2ac5b1b08927c02d6790e5fd3f0941a1107cad3cb9ccb3e5dff7eda36"
         },
         {
           "path": "avatar.png",
-          "size": 202055,
-          "sha256": "b8978bafb61c0724da83bac7c2fb5c875a0dcd72400deb19ffe395e2080f3d8e"
+          "size": 140768,
+          "sha256": "13e3745aade9f87953af3e1561fe1581de8f22f9446d4ce7bb97081f7dcae2c6"
         },
         {
           "path": "dependencies.json",
@@ -282,11 +282,11 @@
     {
       "id": "migrator",
       "name": "Migrator",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T22:17:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Migrator",
@@ -334,12 +334,12 @@
         {
           "path": "agent.json",
           "size": 1760,
-          "sha256": "21d7103cfdf57d8c9aa604afa57f0817ceaaf7e191435ba7c4bc4be8ed8fd3bf"
+          "sha256": "d991b42efd6fa9c93286772a80f8ec248414c228427b4a32f286a8d5a47e8834"
         },
         {
           "path": "avatar.png",
-          "size": 135845,
-          "sha256": "fcd2c1ca0c84298fb8b056144edb43fc2ac0cbad691c2910a584f327ad0d1ee4"
+          "size": 147609,
+          "sha256": "d99a23b1978b5f6dfbae492a22b32aa070a6dc86d56e80ccfaaadd3e890749dc"
         },
         {
           "path": "dependencies.json",
@@ -351,11 +351,11 @@
     {
       "id": "orchestrator",
       "name": "Orchestrator",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Your single point of entry: it understands a request, hands each part to the agent best placed to do it with a complete brief, checks what comes back and gives you one answer.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T22:17:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Orchestrator",
@@ -403,23 +403,23 @@
         {
           "path": "agent.json",
           "size": 1388,
-          "sha256": "27e4431a00e97ec57a06f8579be643d8d07cb9655e368eeba9172e13b1d619f9"
+          "sha256": "436753f72f291031ed0defbfb74c9a657da0a20b6bffa8b29f5752a354f6ba2d"
         },
         {
           "path": "avatar.png",
-          "size": 147446,
-          "sha256": "dba56034f73b27077edbd3fec42c147134b26ea0d29389ecb76d123ceb732651"
+          "size": 148782,
+          "sha256": "5379d70f99554d59329002565a309eace6fc8e342b3387ef72bff062a380e8de"
         }
       ]
     },
     {
       "id": "project-manager",
       "name": "Project Manager",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Turns a goal into a plan and keeps it true: milestones, tasks with an owner and a date, risks named early, and a regular status that says where the project really stands.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-16T23:25:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Project Manager",
@@ -467,12 +467,12 @@
         {
           "path": "agent.json",
           "size": 1495,
-          "sha256": "cfa2cf8d7f1ad8bc28137369f10326e428a587f7711638579dcc445909e757b1"
+          "sha256": "02ef57272e299e176ecc710876413bf20af4f5fb6be598a36caad05d575977af"
         },
         {
           "path": "avatar.png",
-          "size": 133168,
-          "sha256": "ebeaf7b345f1eebe4ed415513115392fc5d3e98b844d9e135e5961176d77b189"
+          "size": 102802,
+          "sha256": "137a1838504646a0d87c291e2952999eb71859de87e822481550bc32b3231f6c"
         },
         {
           "path": "dependencies.json",
@@ -484,11 +484,11 @@
     {
       "id": "researcher",
       "name": "Researcher",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Finds out and keeps watch: a question answered by a dated brief whose every claim has its source, and a subject followed week after week, reporting only what is new.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T22:17:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Researcher",
@@ -536,12 +536,12 @@
         {
           "path": "agent.json",
           "size": 1463,
-          "sha256": "e27e3255ff5952e7d4c3290194b5953934f373e346f2c2108ea7a6be4b34817d"
+          "sha256": "586b2afbc041b2eb931295c186422fdf26e30274ff14d8f14b16a68f1183766c"
         },
         {
           "path": "avatar.png",
-          "size": 137381,
-          "sha256": "0690ce722f25954d9403b60935dc661ab598bc8825f545574b18d5f25b6357f2"
+          "size": 147405,
+          "sha256": "1666b0e087bb57f643f1751fef58700bf22a56015f386a929e7a6a6bb53d57ba"
         },
         {
           "path": "dependencies.json",
@@ -553,11 +553,11 @@
     {
       "id": "secretary",
       "name": "Secretary",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Your administrative assistant: letters and e-mails ready to send, minutes of meetings, Word and Excel documents filled in, and a list of everything that is waiting, brought back at the right time.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-16T23:25:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Secretary",
@@ -605,12 +605,12 @@
         {
           "path": "agent.json",
           "size": 1522,
-          "sha256": "2094624333a6048d29f6c33b4ca63cc71bfbaca79b6622dfa8ca6265872fa693"
+          "sha256": "259fe5a7ef87ebcb280258b5aed6dac2fe4a61ce01dbe87aaf3b89aa14be2608"
         },
         {
           "path": "avatar.png",
-          "size": 140521,
-          "sha256": "55bdb9e9d937bbded03f444ca5a50d9aac9f32f8f500e06e92e7731ba567db31"
+          "size": 122126,
+          "sha256": "d31520c0b337ce786273b4578044b034cb62aeafbaac0b0694a8814211bf33c8"
         },
         {
           "path": "dependencies.json",
@@ -622,11 +622,11 @@
     {
       "id": "sentinel",
       "name": "Sentinel",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Watches over your servers: disk, memory, services, updates, certificates, backups and security checked with read-only commands, compared with last time, reported before they become an outage.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-16T23:25:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Sentinel",
@@ -674,12 +674,12 @@
         {
           "path": "agent.json",
           "size": 1580,
-          "sha256": "37fa43ab0b5fa8d72c456c7de1ded309759dc7a84a6623a1b1563c835b6ef6e4"
+          "sha256": "5cae589d07f647267a9b2f23d90a6727cec5aa507e3594c8376231e36060dd4f"
         },
         {
           "path": "avatar.png",
-          "size": 140568,
-          "sha256": "3c29337da0e00129c54b0a16637aa5162a8a240480834c2e7338e2f58ea62948"
+          "size": 139765,
+          "sha256": "140cace6f423881e227b6bdb7795f672279f8077747005983687dd374970ba43"
         },
         {
           "path": "dependencies.json",
@@ -691,11 +691,11 @@
     {
       "id": "smart-home",
       "name": "Smart Home",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "The administrator of your Home Assistant: it hears new Zigbee, Z-Wave and RFXCOM devices and takes them in with you, names everything by a clear scheme, organises the rooms, writes automations, scripts and scenes, builds dashboards, and watches over the health of the installation.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-10T23:47:20+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Smart Home",
@@ -703,7 +703,7 @@
         },
         "fr": {
           "name": "Smart Home",
-          "description": "L'administrateur de votre Home Assistant : il écoute les nouveaux périphériques Zigbee, Z-Wave et RFXCOM et les accueille avec vous, nomme tout selon un schéma clair, organise les pièces, écrit les automatismes, les scripts et les scènes, construit les tableaux de bord et veille sur la santé de l'installation."
+          "description": "L'administrateur de votre Home Assistant : il écoute les nouveaux appareils Zigbee, Z-Wave et RFXCOM et les accueille avec vous, nomme tout selon un schéma clair, organise les pièces, écrit automatismes, scripts et scènes, construit les tableaux de bord et veille sur la santé de l'installation."
         },
         "es": {
           "name": "Smart Home",
@@ -742,13 +742,13 @@
         },
         {
           "path": "agent.json",
-          "size": 2015,
-          "sha256": "9d0cd79062c72ae8557d2494a63fe17a0e80e203290a22122e5a44e9b3550eb1"
+          "size": 1997,
+          "sha256": "2c57ab71ea489fb944650643867d02f0e100d243002301a224949f2002d97b6c"
         },
         {
           "path": "avatar.png",
-          "size": 144932,
-          "sha256": "819d1dc0c39e3ad0d789557abf831d9e553cee9288166e4bbc0f080eb04ab1de"
+          "size": 146310,
+          "sha256": "c4911229d2ca9ed65e100f5f58a07480d628ca386bd88f7746bd5f4b4de01fdf"
         },
         {
           "path": "dependencies.json",
@@ -760,11 +760,11 @@
     {
       "id": "tutor",
       "name": "Tutor",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "A patient private teacher: it finds out what you already know, explains at your level, makes you practise, checks that you really understood, and brings back what you learnt before you forget it.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-09T22:17:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Tutor",
@@ -812,12 +812,12 @@
         {
           "path": "agent.json",
           "size": 1500,
-          "sha256": "7dba53a4ed4cf0037343e7a08bb93eda830002040957dc7427db39f51781a0e2"
+          "sha256": "a4833e0df57faa1c97ef4aadfe67d756fad1591fd4a663ffb3c04a8e171bdb64"
         },
         {
           "path": "avatar.png",
-          "size": 138681,
-          "sha256": "0000e894a44a94ee21bdc5be723fc40801e5b26226e37c37efa1e8d055bde07b"
+          "size": 140806,
+          "sha256": "9df1dccc34fa81728b7e690427e029d036fbe208ce672a1d843322b27ba2ff48"
         },
         {
           "path": "dependencies.json",
@@ -829,11 +829,11 @@
     {
       "id": "writer",
       "name": "Writer",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "A writer and editor that hands over finished text: it settles the reader and the purpose before writing, plans, drafts, revises in separate passes, checks every fact, and learns your voice.",
       "author": "Allkin",
       "icon": "avatar.png",
-      "updatedAt": "2026-11-16T23:25:44+01:00",
+      "updatedAt": "2026-11-23T21:28:10+01:00",
       "locales": {
         "en": {
           "name": "Writer",
@@ -881,12 +881,12 @@
         {
           "path": "agent.json",
           "size": 1486,
-          "sha256": "a9455b9b0b7a3d6d0c23cf7edb1c8b400f7282d1f6aa0c361b98aca8209efd5a"
+          "sha256": "8eb734d6eb05efab286f9e2535f45d444b5b6d03c60cb3841e29bec66d0d356d"
         },
         {
           "path": "avatar.png",
-          "size": 146395,
-          "sha256": "076df9b92b6768ecbd7812dbe1396ed242e7eb6583a06b75ef076da69cbe50ad"
+          "size": 145576,
+          "sha256": "63aaec82ada11f58984a1264fed41629fc20c89e3824c298bb18091ba22729eb"
         },
         {
           "path": "dependencies.json",

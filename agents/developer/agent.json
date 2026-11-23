@@ -1,6 +1,6 @@
 {
   "name": "Developer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A software developer that works like Claude Code: it explores a code base before touching it, plans, changes little, verifies by running the tests and the build, and reports plainly.",
   "author": "Allkin",
   "canAdminSystem": true,

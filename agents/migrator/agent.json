@@ -1,6 +1,6 @@
 {
   "name": "Migrator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Brings your agents from OpenClaw or NanoClaw into Allkin: reads an archive of the old install without its secrets, rewrites each agent's role and memory, converts its competences and hands back archives to import with a short to-do list.",
   "author": "Allkin",
   "canRemember": true,
